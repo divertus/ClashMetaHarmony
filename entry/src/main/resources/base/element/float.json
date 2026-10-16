@@ -1,0 +1,216 @@
+{
+  "float": [
+    {
+      "name": "page_text_font_size",
+      "value": "50fp"
+    },
+    {
+      "name": "about_icon_size",
+      "value": "50vp"
+    },
+    {
+      "name": "about_text_margin",
+      "value": "15vp"
+    },
+    {
+      "name": "bottom_sheet_background_padding_top",
+      "value": "10vp"
+    },
+    {
+      "name": "bottom_sheet_header_height",
+      "value": "5vp"
+    },
+    {
+      "name": "bottom_sheet_menu_items_padding",
+      "value": "5vp"
+    },
+    {
+      "name": "dialog_button_margin",
+      "value": "5vp"
+    },
+    {
+      "name": "dialog_menu_min_width",
+      "value": "150vp"
+    },
+    {
+      "name": "dialog_padding",
+      "value": "20vp"
+    },
+    {
+      "name": "divider_size",
+      "value": "1vp"
+    },
+    {
+      "name": "item_header_component_size",
+      "value": "30vp"
+    },
+    {
+      "name": "item_header_margin",
+      "value": "17.5vp"
+    },
+    {
+      "name": "item_midden_margin",
+      "value": "10vp"
+    },
+    {
+      "name": "item_min_height",
+      "value": "75vp"
+    },
+    {
+      "name": "item_padding_vertical",
+      "value": "16vp"
+    },
+    {
+      "name": "item_tailing_component_size",
+      "value": "30vp"
+    },
+    {
+      "name": "item_tailing_margin",
+      "value": "17.5vp"
+    },
+    {
+      "name": "item_text_margin",
+      "value": "5vp"
+    },
+    {
+      "name": "large_action_card_elevation",
+      "value": "5vp"
+    },
+    {
+      "name": "large_action_card_min_height",
+      "value": "85vp"
+    },
+    {
+      "name": "large_action_card_radius",
+      "value": "8vp"
+    },
+    {
+      "name": "large_item_header_component_size",
+      "value": "30vp"
+    },
+    {
+      "name": "large_item_header_layout_size",
+      "value": "70vp"
+    },
+    {
+      "name": "large_item_header_margin_horizontal",
+      "value": "20vp"
+    },
+    {
+      "name": "large_item_padding_vertical",
+      "value": "15vp"
+    },
+    {
+      "name": "large_item_tailing_margin_horizontal",
+      "value": "20vp"
+    },
+    {
+      "name": "large_item_text_margin",
+      "value": "5vp"
+    },
+    {
+      "name": "logcat_padding_horizontal",
+      "value": "12vp"
+    },
+    {
+      "name": "logcat_padding_vertical",
+      "value": "12vp"
+    },
+    {
+      "name": "main_card_margin_vertical",
+      "value": "5vp"
+    },
+    {
+      "name": "main_label_margin_vertical",
+      "value": "2vp"
+    },
+    {
+      "name": "main_logo_size",
+      "value": "50vp"
+    },
+    {
+      "name": "main_padding_horizontal",
+      "value": "30vp"
+    },
+    {
+      "name": "main_top_banner_height",
+      "value": "90vp"
+    },
+    {
+      "name": "preference_fullscreen_button_padding",
+      "value": "20vp"
+    },
+    {
+      "name": "properties_element_margin_vertical",
+      "value": "2.5vp"
+    },
+    {
+      "name": "proxy_card_offset",
+      "value": "0vp"
+    },
+    {
+      "name": "proxy_card_radius",
+      "value": "5vp"
+    },
+    {
+      "name": "proxy_content_padding",
+      "value": "15vp"
+    },
+    {
+      "name": "proxy_content_padding_grid3",
+      "value": "12vp"
+    },
+    {
+      "name": "proxy_layout_padding",
+      "value": "3vp"
+    },
+    {
+      "name": "proxy_text_margin",
+      "value": "10vp"
+    },
+    {
+      "name": "proxy_text_margin_grid3",
+      "value": "5vp"
+    },
+    {
+      "name": "proxy_text_size",
+      "value": "12fp"
+    },
+    {
+      "name": "proxy_text_size_grid3",
+      "value": "11fp"
+    },
+    {
+      "name": "surface_landscape_min_width",
+      "value": "500vp"
+    },
+    {
+      "name": "tab_layout_elevation",
+      "value": "5vp"
+    },
+    {
+      "name": "tab_layout_height",
+      "value": "48vp"
+    },
+    {
+      "name": "tips_icon_margin",
+      "value": "20vp"
+    },
+    {
+      "name": "tips_icon_size",
+      "value": "25vp"
+    },
+    {
+      "name": "toolbar_elevation",
+      "value": "5vp"
+    },
+    {
+      "name": "toolbar_height",
+      "value": "56vp"
+    },
+    {
+      "name": "toolbar_image_action_padding",
+      "value": "5vp"
+    }
+  ]
+}

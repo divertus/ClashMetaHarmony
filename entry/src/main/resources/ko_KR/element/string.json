@@ -1,0 +1,1068 @@
+{
+  "string": [
+    {
+      "name": "_new",
+      "value": "신규"
+    },
+    {
+      "name": "about",
+      "value": "정보"
+    },
+    {
+      "name": "accept_http_content",
+      "value": "http(s) 연결만 허용"
+    },
+    {
+      "name": "access_control_mode",
+      "value": "연결 허용 모드"
+    },
+    {
+      "name": "access_control_packages",
+      "value": "연결 허용 목록"
+    },
+    {
+      "name": "access_control_packages_summary",
+      "value": "앱별 연결 허용 관리"
+    },
+    {
+      "name": "active_unsaved_tips",
+      "value": "활성화하기 전에 구성 파일을 저장해야합니다."
+    },
+    {
+      "name": "age_key_category",
+      "value": "Age 키"
+    },
+    {
+      "name": "age_key_copy",
+      "value": "복사"
+    },
+    {
+      "name": "age_key_generate",
+      "value": "생성"
+    },
+    {
+      "name": "age_key_generate_summary",
+      "value": "탭하여 생성"
+    },
+    {
+      "name": "age_key_helper",
+      "value": "Age 키"
+    },
+    {
+      "name": "age_key_to_public",
+      "value": "비밀 키에서 생성"
+    },
+    {
+      "name": "age_public_key",
+      "value": "Age 공개 키"
+    },
+    {
+      "name": "age_public_key_error",
+      "value": "잘못된 Age 공개 키"
+    },
+    {
+      "name": "age_secret_key",
+      "value": "Age 비밀 키"
+    },
+    {
+      "name": "age_secret_key_error",
+      "value": "형식이 올바르지 않습니다. 키는 AGE-SECRET-KEY-로 시작해야 합니다"
+    },
+    {
+      "name": "age_secret_key_hint",
+      "value": "AGE-SECRET-KEY-… (선택 사항)"
+    },
+    {
+      "name": "allow_all_apps",
+      "value": "모든 앱 허용"
+    },
+    {
+      "name": "allow_bypass",
+      "value": "앱 제외 허용"
+    },
+    {
+      "name": "allow_bypass_summary",
+      "value": "모든 앱이 VPN 우회 연결에서 제외될 수 있도록 합니다."
+    },
+    {
+      "name": "allow_clash_auto_restart",
+      "value": "Clash 앱이 자동으로 재시작하도록 합니다."
+    },
+    {
+      "name": "allow_lan",
+      "value": "LAN 허용"
+    },
+    {
+      "name": "allow_selected_apps",
+      "value": "선택한 앱만 허용"
+    },
+    {
+      "name": "always",
+      "value": "강제로 켜기"
+    },
+    {
+      "name": "always_dark",
+      "value": "다크"
+    },
+    {
+      "name": "always_light",
+      "value": "라이트"
+    },
+    {
+      "name": "app",
+      "value": "앱"
+    },
+    {
+      "name": "append_system_dns",
+      "value": "시스템 DNS 허용"
+    },
+    {
+      "name": "application_broken",
+      "value": "앱 오류"
+    },
+    {
+      "name": "application_broken_tips",
+      "value": "불완전한 APK 다운로드로 인해 앱을 실행하는데 필요한 구성 요소가 누락되었습니다."
+    },
+    {
+      "name": "application_crashed",
+      "value": "앱 중지"
+    },
+    {
+      "name": "at_least_15_minutes",
+      "value": "최소 15분 이상 또는 공백"
+    },
+    {
+      "name": "authentication",
+      "value": "인증"
+    },
+    {
+      "name": "auto_restart",
+      "value": "자동 재시작"
+    },
+    {
+      "name": "auto_update",
+      "value": "자동 업데이트"
+    },
+    {
+      "name": "auto_update_minutes",
+      "value": "자동 업데이트 (분)"
+    },
+    {
+      "name": "behavior",
+      "value": "동작"
+    },
+    {
+      "name": "bind_address",
+      "value": "수신 주소"
+    },
+    {
+      "name": "block_loopback",
+      "value": "로컬 루프백 차단"
+    },
+    {
+      "name": "block_loopback_summary",
+      "value": "로컬 루프백 연결을 차단합니다."
+    },
+    {
+      "name": "browse_configuration_providers",
+      "value": "구성 파일과 외부 리소스를 찾습니다."
+    },
+    {
+      "name": "browse_files",
+      "value": "파일 찾아보기"
+    },
+    {
+      "name": "bypass_private_network",
+      "value": "사설 네트워크 제외"
+    },
+    {
+      "name": "bypass_private_network_summary",
+      "value": "사설 네트워크 주소를 제외합니다."
+    },
+    {
+      "name": "cancel",
+      "value": "취소"
+    },
+    {
+      "name": "clash_logcat",
+      "value": "Clash 로그 수집 도구"
+    },
+    {
+      "name": "clash_meta_core",
+      "value": "Clash Meta 코어"
+    },
+    {
+      "name": "clash_meta_for_android",
+      "value": "Clash Meta for Android"
+    },
+    {
+      "name": "clash_meta_wiki",
+      "value": "Clash Meta Wiki"
+    },
+    {
+      "name": "clash_wiki",
+      "value": "Clash Wiki"
+    },
+    {
+      "name": "close",
+      "value": "닫기"
+    },
+    {
+      "name": "compatible",
+      "value": "호환"
+    },
+    {
+      "name": "copied",
+      "value": "복사됨"
+    },
+    {
+      "name": "create_profile",
+      "value": "구성 추가"
+    },
+    {
+      "name": "dark_mode",
+      "value": "다크 모드"
+    },
+    {
+      "name": "debug",
+      "value": "디버그"
+    },
+    {
+      "name": "default_",
+      "value": "기본"
+    },
+    {
+      "name": "default_name_server",
+      "value": "기본 네임 서버"
+    },
+    {
+      "name": "delay",
+      "value": "지연 수치"
+    },
+    {
+      "name": "delay_test",
+      "value": "지연 수치 테스트"
+    },
+    {
+      "name": "delete",
+      "value": "삭제"
+    },
+    {
+      "name": "delete_all_logs",
+      "value": "전체 로그 삭제"
+    },
+    {
+      "name": "delete_all_logs_warn",
+      "value": "전체 로그가 삭제됩니다."
+    },
+    {
+      "name": "deny_selected_apps",
+      "value": "선택한 앱 제외"
+    },
+    {
+      "name": "detail",
+      "value": "자세히"
+    },
+    {
+      "name": "direct_mode",
+      "value": "다이렉트"
+    },
+    {
+      "name": "disable_sniffer",
+      "value": "Sniffer 끔"
+    },
+    {
+      "name": "disabled",
+      "value": "끔"
+    },
+    {
+      "name": "dns",
+      "value": "DNS"
+    },
+    {
+      "name": "dns_hijacking",
+      "value": "DNS 하이재킹"
+    },
+    {
+      "name": "dns_hijacking_summary",
+      "value": "모든 DNS 패킷을 포함합니다."
+    },
+    {
+      "name": "document",
+      "value": "문서"
+    },
+    {
+      "name": "domain_fallback",
+      "value": "도메인 폴백"
+    },
+    {
+      "name": "donate",
+      "value": "기부"
+    },
+    {
+      "name": "dont_modify",
+      "value": "수정 불가"
+    },
+    {
+      "name": "doubles",
+      "value": "더블"
+    },
+    {
+      "name": "duplicate",
+      "value": "복제"
+    },
+    {
+      "name": "edit",
+      "value": "편집"
+    },
+    {
+      "name": "empty",
+      "value": "공백"
+    },
+    {
+      "name": "empty_name",
+      "value": "빈칸"
+    },
+    {
+      "name": "enabled",
+      "value": "켬"
+    },
+    {
+      "name": "enhanced_mode",
+      "value": "고급"
+    },
+    {
+      "name": "error",
+      "value": "에러"
+    },
+    {
+      "name": "exit_without_save",
+      "value": "저장없이 종료"
+    },
+    {
+      "name": "exit_without_save_warning",
+      "value": "모든 변경 사항이 저장되지 않습니다."
+    },
+    {
+      "name": "export",
+      "value": "내보내기"
+    },
+    {
+      "name": "export_to_clipboard",
+      "value": "클립보드로 내보내기"
+    },
+    {
+      "name": "external",
+      "value": "외부"
+    },
+    {
+      "name": "external_control_activity",
+      "value": "External Control"
+    },
+    {
+      "name": "external_control_started",
+      "value": "Clash.Meta service started"
+    },
+    {
+      "name": "external_control_stopped",
+      "value": "Clash.Meta service stopped"
+    },
+    {
+      "name": "fakeip",
+      "value": "Fake-IP - 도메인 매핑"
+    },
+    {
+      "name": "fakeip_filter",
+      "value": "FakeIP 필터"
+    },
+    {
+      "name": "fallback",
+      "value": "폴팩 네임 서버"
+    },
+    {
+      "name": "feedback",
+      "value": "피드백"
+    },
+    {
+      "name": "file",
+      "value": "파일"
+    },
+    {
+      "name": "file_exported",
+      "value": "파일 내보내기 완료"
+    },
+    {
+      "name": "file_name",
+      "value": "파일명"
+    },
+    {
+      "name": "files",
+      "value": "파일"
+    },
+    {
+      "name": "filter",
+      "value": "필터"
+    },
+    {
+      "name": "find_process_mode",
+      "value": "프로세스 모드 찾기"
+    },
+    {
+      "name": "follow_system_android_10",
+      "value": "시스템 설정 (Android 10+)과 일치"
+    },
+    {
+      "name": "force_dns_mapping",
+      "value": "Force DNS Mapping"
+    },
+    {
+      "name": "force_domain",
+      "value": "강제 도메인"
+    },
+    {
+      "name": "force_enable",
+      "value": "강제 활성화"
+    },
+    {
+      "name": "format_days_ago",
+      "value": "%d 일 전"
+    },
+    {
+      "name": "format_elements",
+      "value": "%d 개 항목"
+    },
+    {
+      "name": "format_fetching_configuration",
+      "value": "현재 %s 에서 구성 파일을 가져오는 중입니다."
+    },
+    {
+      "name": "format_fetching_provider",
+      "value": "현재 외부 리소스 %s 을 가져오는 중입니다."
+    },
+    {
+      "name": "format_hours_ago",
+      "value": "%d 시간 전"
+    },
+    {
+      "name": "format_minutes",
+      "value": "%d 분"
+    },
+    {
+      "name": "format_minutes_ago",
+      "value": "%d 분 전"
+    },
+    {
+      "name": "format_months_ago",
+      "value": "%d 개월 전"
+    },
+    {
+      "name": "format_profile_activated",
+      "value": "%s 활성화됨"
+    },
+    {
+      "name": "format_provider_type",
+      "value": "%1$s(%2$s)"
+    },
+    {
+      "name": "format_traffic_forwarded",
+      "value": "%s 전송됨"
+    },
+    {
+      "name": "format_type_unsaved",
+      "value": "%s (저장되지 않음)"
+    },
+    {
+      "name": "format_update_provider_failure",
+      "value": "업데이트 %1$s: %2$s"
+    },
+    {
+      "name": "format_years_ago",
+      "value": "%d 년 전"
+    },
+    {
+      "name": "general",
+      "value": "일반"
+    },
+    {
+      "name": "geodata_mode",
+      "value": "Geodata 모드"
+    },
+    {
+      "name": "geofile_import_failed",
+      "value": "Import failed"
+    },
+    {
+      "name": "geofile_imported",
+      "value": "%1$s imported"
+    },
+    {
+      "name": "geofile_unknown_db_format",
+      "value": "Unknown Database format"
+    },
+    {
+      "name": "geofile_unknown_db_format_message",
+      "value": "Only %1$s are supported"
+    },
+    {
+      "name": "geoip_fallback",
+      "value": "GeoIP 폴백"
+    },
+    {
+      "name": "geoip_fallback_code",
+      "value": "GeoIP 폴백 지역 코드"
+    },
+    {
+      "name": "geox_files",
+      "value": "Geo Files"
+    },
+    {
+      "name": "geox_geoip",
+      "value": "GeoIP Url"
+    },
+    {
+      "name": "geox_geosite",
+      "value": "Geosite Url"
+    },
+    {
+      "name": "geox_mmdb",
+      "value": "MMDB Url"
+    },
+    {
+      "name": "geox_url_setting",
+      "value": "GeoX Url 설정"
+    },
+    {
+      "name": "github_issues",
+      "value": "Github Issues"
+    },
+    {
+      "name": "github_releases",
+      "value": "Github Releases"
+    },
+    {
+      "name": "global_mode",
+      "value": "글로벌"
+    },
+    {
+      "name": "google_play",
+      "value": "Google Play"
+    },
+    {
+      "name": "help",
+      "value": "도움"
+    },
+    {
+      "name": "history",
+      "value": "히스토리"
+    },
+    {
+      "name": "hosts",
+      "value": "호스트"
+    },
+    {
+      "name": "http",
+      "value": "HTTP"
+    },
+    {
+      "name": "http_port",
+      "value": "HTTP 포트"
+    },
+    {
+      "name": "import_",
+      "value": "가져오기"
+    },
+    {
+      "name": "import_country_file",
+      "value": "Import Country Database"
+    },
+    {
+      "name": "import_from_clipboard",
+      "value": "클립보드에서 가져오기"
+    },
+    {
+      "name": "import_from_file",
+      "value": "파일에서 가져오기"
+    },
+    {
+      "name": "import_from_qr",
+      "value": "QR코드에서 가져오기"
+    },
+    {
+      "name": "import_from_qr_exception",
+      "value": "처리되지 않은 시스템 예외가 발생했습니다."
+    },
+    {
+      "name": "import_from_qr_no_permission",
+      "value": "카메라 접근이 제한되었습니다. 설정에서 허용해 주세요."
+    },
+    {
+      "name": "import_from_url",
+      "value": "URL에서 가져오기"
+    },
+    {
+      "name": "import_geoip_file",
+      "value": "Import GeoIP Database"
+    },
+    {
+      "name": "import_geosite_file",
+      "value": "Import GeoSite Database"
+    },
+    {
+      "name": "info",
+      "value": "정보"
+    },
+    {
+      "name": "initializing",
+      "value": "초기화 중입니다."
+    },
+    {
+      "name": "install_time",
+      "value": "설치 시각"
+    },
+    {
+      "name": "interface_",
+      "value": "테마"
+    },
+    {
+      "name": "invalid_file_name",
+      "value": "유효하지 않은 파일명"
+    },
+    {
+      "name": "invalid_log_file",
+      "value": "유효하지 않은 로그 파일"
+    },
+    {
+      "name": "invalid_url",
+      "value": "유효하지 않은 URL"
+    },
+    {
+      "name": "ipcidr_fallback",
+      "value": "IPCIDR 폴백"
+    },
+    {
+      "name": "ipv6",
+      "value": "IPv6"
+    },
+    {
+      "name": "key",
+      "value": "키"
+    },
+    {
+      "name": "keyword",
+      "value": "키워드"
+    },
+    {
+      "name": "layout",
+      "value": "레이아웃"
+    },
+    {
+      "name": "listen",
+      "value": "응답"
+    },
+    {
+      "name": "loading",
+      "value": "로딩중"
+    },
+    {
+      "name": "log_level",
+      "value": "로그 레벨"
+    },
+    {
+      "name": "logcat",
+      "value": "로그"
+    },
+    {
+      "name": "logs",
+      "value": "로그"
+    },
+    {
+      "name": "mapping",
+      "value": "Real-IP - 도메인 매핑"
+    },
+    {
+      "name": "meta_features",
+      "value": "Meta 기능"
+    },
+    {
+      "name": "mixed_port",
+      "value": "혼합 포트"
+    },
+    {
+      "name": "mode",
+      "value": "모드"
+    },
+    {
+      "name": "mode_switch_tips",
+      "value": "현재 세션에서만 유요합니다."
+    },
+    {
+      "name": "more",
+      "value": "더보기"
+    },
+    {
+      "name": "multiple",
+      "value": "복합"
+    },
+    {
+      "name": "name",
+      "value": "이름"
+    },
+    {
+      "name": "name_server",
+      "value": "네임 서버"
+    },
+    {
+      "name": "name_server_policy",
+      "value": "네임 서버 정책"
+    },
+    {
+      "name": "network",
+      "value": "네트워크"
+    },
+    {
+      "name": "new_profile",
+      "value": "새 구성"
+    },
+    {
+      "name": "no_profile_selected",
+      "value": "구성 파일이 선택되지 않았습니다."
+    },
+    {
+      "name": "not_selectable",
+      "value": "선택 불가"
+    },
+    {
+      "name": "not_selected",
+      "value": "선택되지 않음"
+    },
+    {
+      "name": "off",
+      "value": "강제 종료"
+    },
+    {
+      "name": "ok",
+      "value": "확인"
+    },
+    {
+      "name": "options_unavailable",
+      "value": "Clash 연결인 상태에서는 변경할 수 없습니다."
+    },
+    {
+      "name": "override",
+      "value": "재정의"
+    },
+    {
+      "name": "override_destination",
+      "value": "Override Destination"
+    },
+    {
+      "name": "package_name",
+      "value": "패키지 이름"
+    },
+    {
+      "name": "parse_pure_ip",
+      "value": "Parse Pure IP"
+    },
+    {
+      "name": "port_whitelist",
+      "value": "포트 화이트리스트"
+    },
+    {
+      "name": "prefer_h3",
+      "value": "h3 선호"
+    },
+    {
+      "name": "press_to_import",
+      "value": "Press to import..."
+    },
+    {
+      "name": "profile",
+      "value": "구성"
+    },
+    {
+      "name": "profile_name",
+      "value": "구성 이름"
+    },
+    {
+      "name": "profile_url",
+      "value": "구성 URL"
+    },
+    {
+      "name": "profiles",
+      "value": "구성 목록"
+    },
+    {
+      "name": "properties",
+      "value": "속성"
+    },
+    {
+      "name": "providers",
+      "value": "외부 리소스"
+    },
+    {
+      "name": "proxy",
+      "value": "프록시"
+    },
+    {
+      "name": "proxy_empty_tips",
+      "value": "표시할 그룹이 없습니다."
+    },
+    {
+      "name": "qr_code_generation_failed",
+      "value": "이 링크의 QR 코드를 생성할 수 없습니다."
+    },
+    {
+      "name": "recently",
+      "value": "최근"
+    },
+    {
+      "name": "redirect_port",
+      "value": "Redirect 포트"
+    },
+    {
+      "name": "reinstall",
+      "value": "재설치"
+    },
+    {
+      "name": "rename",
+      "value": "이름 변경"
+    },
+    {
+      "name": "reset",
+      "value": "재설정"
+    },
+    {
+      "name": "reset_override_settings",
+      "value": "재정의 초기화"
+    },
+    {
+      "name": "reset_override_settings_message",
+      "value": "모든 재정의 설정이 초기화됩니다."
+    },
+    {
+      "name": "reverse",
+      "value": "반대"
+    },
+    {
+      "name": "route_system_traffic",
+      "value": "시스템 트래픽 우회"
+    },
+    {
+      "name": "routing_via_vpn_service",
+      "value": "모든 시스템 트래픽이 자동으로 VPN 우회 서비스를 이용합니다."
+    },
+    {
+      "name": "rule",
+      "value": "규칙"
+    },
+    {
+      "name": "rule_mode",
+      "value": "규칙"
+    },
+    {
+      "name": "running",
+      "value": "연결중"
+    },
+    {
+      "name": "save",
+      "value": "저장"
+    },
+    {
+      "name": "search",
+      "value": "검색"
+    },
+    {
+      "name": "select_all",
+      "value": "전체 선택"
+    },
+    {
+      "name": "select_invert",
+      "value": "선택 반전"
+    },
+    {
+      "name": "select_none",
+      "value": "모두 해제"
+    },
+    {
+      "name": "service",
+      "value": "서비스"
+    },
+    {
+      "name": "settings",
+      "value": "설정"
+    },
+    {
+      "name": "share_qr_code",
+      "value": "QR 코드로 공유"
+    },
+    {
+      "name": "should_not_be_blank",
+      "value": "이 필드는 공백이 허용되지 않습니다."
+    },
+    {
+      "name": "show_traffic",
+      "value": "트래픽 차트"
+    },
+    {
+      "name": "show_traffic_summary",
+      "value": "알림표시줄에서 자동으로 트래픽 차트 업데이트"
+    },
+    {
+      "name": "silent",
+      "value": "조용"
+    },
+    {
+      "name": "single",
+      "value": "단일"
+    },
+    {
+      "name": "skip_domain",
+      "value": "도메인 건너뛰기"
+    },
+    {
+      "name": "sniffer",
+      "value": "Sniffer"
+    },
+    {
+      "name": "sniffer_config",
+      "value": "구성에서 Sniffer 불러오기"
+    },
+    {
+      "name": "sniffer_override",
+      "value": "Sniffer 구성 재정의"
+    },
+    {
+      "name": "sniffer_setting",
+      "value": "Sniffer 설정"
+    },
+    {
+      "name": "sniffing",
+      "value": "Sniffer 모드"
+    },
+    {
+      "name": "socks_port",
+      "value": "Socks 포트"
+    },
+    {
+      "name": "sort",
+      "value": "정렬"
+    },
+    {
+      "name": "sources",
+      "value": "소스"
+    },
+    {
+      "name": "stopped",
+      "value": "중지됨"
+    },
+    {
+      "name": "strategy",
+      "value": "정책"
+    },
+    {
+      "name": "strict",
+      "value": "구성 설정에 따름"
+    },
+    {
+      "name": "system_apps",
+      "value": "시스템 앱"
+    },
+    {
+      "name": "system_proxy",
+      "value": "시스템 프록시"
+    },
+    {
+      "name": "system_proxy_summary",
+      "value": "Vpn 서비스에 HTTP 프록시 추가"
+    },
+    {
+      "name": "tap_to_start",
+      "value": "연결하려면 터치"
+    },
+    {
+      "name": "tcp_concurrent",
+      "value": "TCP Concorrent"
+    },
+    {
+      "name": "tips_help",
+      "value": "Clash Meta for Android는 <strong>프리웨어</strong>이며, <strong>우회 서비스 제공자가 아닙니다.</strong> 따라서, <strong>앱 자체 이외의 문제에 대한 피드백은 받지 않습니다.</strong>"
+    },
+    {
+      "name": "tips_properties",
+      "value": "<strong>Clash 구성 파일</strong>(<strong>프록시</strong>/<strong>규칙</strong> 포함)만 추가할 수 있습니다."
+    },
+    {
+      "name": "toast_profile_updated_complete",
+      "value": "Update profile %s completed"
+    },
+    {
+      "name": "toast_profile_updated_failed",
+      "value": "Update profile %1$s failed: %2$s"
+    },
+    {
+      "name": "tproxy_port",
+      "value": "TProxy 포트"
+    },
+    {
+      "name": "unable_to_start_vpn",
+      "value": "VPN 구성 요소를 시작할 수 없습니다."
+    },
+    {
+      "name": "unavailable",
+      "value": "이용 불가"
+    },
+    {
+      "name": "unified_delay",
+      "value": "Unified Delay"
+    },
+    {
+      "name": "update",
+      "value": "업데이트"
+    },
+    {
+      "name": "update_all",
+      "value": "전체 업데이트"
+    },
+    {
+      "name": "update_time",
+      "value": "업데이트 시각"
+    },
+    {
+      "name": "url",
+      "value": "URL"
+    },
+    {
+      "name": "use_built_in",
+      "value": "기본값"
+    },
+    {
+      "name": "use_hosts",
+      "value": "Hosts 사용"
+    },
+    {
+      "name": "value",
+      "value": "값"
+    },
+    {
+      "name": "verifying",
+      "value": "인증 중입니다."
+    },
+    {
+      "name": "version_updated",
+      "value": "앱 버전이 업데이트되었습니다."
+    },
+    {
+      "name": "version_updated_tips",
+      "value": "구성이 삭제되었으므로 이전 구성 파일을 다시 저장해야 합니다."
+    },
+    {
+      "name": "vpn_service_options",
+      "value": "VPN 서비스 옵션"
+    },
+    {
+      "name": "warning",
+      "value": "경고"
+    }
+  ]
+}

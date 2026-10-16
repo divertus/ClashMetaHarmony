@@ -1,0 +1,1016 @@
+{
+  "string": [
+    {
+      "name": "_new",
+      "value": "Mới"
+    },
+    {
+      "name": "about",
+      "value": "Thông tin"
+    },
+    {
+      "name": "accept_http_content",
+      "value": "Chỉ chấp nhận http(s)"
+    },
+    {
+      "name": "access_control_mode",
+      "value": "Chế độ kiểm soát truy cập"
+    },
+    {
+      "name": "access_control_packages",
+      "value": "Các gói kiểm soát truy cập"
+    },
+    {
+      "name": "access_control_packages_summary",
+      "value": "Định cấu hình quyền truy cập cho các ứng dụng"
+    },
+    {
+      "name": "active_unsaved_tips",
+      "value": "Hồ sơ cần được lưu trước khi kích hoạt"
+    },
+    {
+      "name": "age_key_category",
+      "value": "Khóa Age"
+    },
+    {
+      "name": "age_key_copy",
+      "value": "Sao chép"
+    },
+    {
+      "name": "age_key_generate",
+      "value": "Tạo"
+    },
+    {
+      "name": "age_key_generate_summary",
+      "value": "Nhấn để tạo"
+    },
+    {
+      "name": "age_key_helper",
+      "value": "Khóa Age"
+    },
+    {
+      "name": "age_key_to_public",
+      "value": "Từ khóa bí mật"
+    },
+    {
+      "name": "age_public_key",
+      "value": "Khóa công khai Age"
+    },
+    {
+      "name": "age_public_key_error",
+      "value": "Khóa công khai Age không hợp lệ"
+    },
+    {
+      "name": "age_secret_key",
+      "value": "Khóa bí mật Age"
+    },
+    {
+      "name": "age_secret_key_error",
+      "value": "Định dạng không hợp lệ. Khóa phải bắt đầu bằng AGE-SECRET-KEY-"
+    },
+    {
+      "name": "age_secret_key_hint",
+      "value": "AGE-SECRET-KEY-… (tùy chọn)"
+    },
+    {
+      "name": "allow_all_apps",
+      "value": "Cho phép tất cả các ứng dụng"
+    },
+    {
+      "name": "allow_bypass",
+      "value": "Cho phép bỏ qua"
+    },
+    {
+      "name": "allow_bypass_summary",
+      "value": "Cho phép tất cả các ứng dụng bỏ qua kết nối VPN này"
+    },
+    {
+      "name": "allow_clash_auto_restart",
+      "value": "Cho phép Clash tự khởi động lại"
+    },
+    {
+      "name": "allow_ipv6",
+      "value": "Cho phép Ipv6"
+    },
+    {
+      "name": "allow_ipv6_summary",
+      "value": "Cho phép lưu lượng ipv6 qua hệ thống Vpn"
+    },
+    {
+      "name": "allow_lan",
+      "value": "Cho phép mạng LAN"
+    },
+    {
+      "name": "allow_selected_apps",
+      "value": "Cho phép các ứng dụng đã chọn"
+    },
+    {
+      "name": "always_dark",
+      "value": "Luôn tối"
+    },
+    {
+      "name": "always_light",
+      "value": "Luôn sáng"
+    },
+    {
+      "name": "app",
+      "value": "Ứng dụng"
+    },
+    {
+      "name": "append_system_dns",
+      "value": "Nối hệ thống DNS"
+    },
+    {
+      "name": "application_broken",
+      "value": "Ứng dụng bị lỗi"
+    },
+    {
+      "name": "application_broken_tips",
+      "value": "Ứng dụng thiếu các thành phần cần thiết, nguyên nhân thường là do tải xuống apk không đầy đủ."
+    },
+    {
+      "name": "application_crashed",
+      "value": "Ứng dụng bị dừng"
+    },
+    {
+      "name": "application_name_alpha",
+      "value": "Clash Meta"
+    },
+    {
+      "name": "application_name_meta",
+      "value": "Clash Meta"
+    },
+    {
+      "name": "at_least_15_minutes",
+      "value": "Ít nhất 15 phút hoặc để trống"
+    },
+    {
+      "name": "authentication",
+      "value": "Xác thực"
+    },
+    {
+      "name": "auto_restart",
+      "value": "Khởi động lại tự động"
+    },
+    {
+      "name": "auto_update",
+      "value": "Thời gian tự động cập nhật"
+    },
+    {
+      "name": "auto_update_minutes",
+      "value": "Tự động cập nhật (Phút)"
+    },
+    {
+      "name": "behavior",
+      "value": "Điều hướng"
+    },
+    {
+      "name": "bind_address",
+      "value": "Địa chỉ ràng buộc"
+    },
+    {
+      "name": "block_loopback",
+      "value": "Chặn lặp"
+    },
+    {
+      "name": "block_loopback_summary",
+      "value": "Chặn kết nối lặp lại"
+    },
+    {
+      "name": "browse_configuration_providers",
+      "value": "Duyệt qua tệp cấu hình và nhà cung cấp"
+    },
+    {
+      "name": "browse_files",
+      "value": "Duyệt qua tệp"
+    },
+    {
+      "name": "bypass_private_network",
+      "value": "Bỏ qua mạng riêng"
+    },
+    {
+      "name": "bypass_private_network_summary",
+      "value": "Bỏ qua các địa chỉ mạng riêng"
+    },
+    {
+      "name": "cancel",
+      "value": "Huỷ bỏ"
+    },
+    {
+      "name": "clash_logcat",
+      "value": "Nhật ký Clash"
+    },
+    {
+      "name": "clash_meta_core",
+      "value": "Clash Meta Core"
+    },
+    {
+      "name": "clash_meta_for_android",
+      "value": "Clash Meta"
+    },
+    {
+      "name": "clash_meta_wiki",
+      "value": "Clash Meta Wiki"
+    },
+    {
+      "name": "close",
+      "value": "Đóng"
+    },
+    {
+      "name": "compatible",
+      "value": "Tương thích"
+    },
+    {
+      "name": "copied",
+      "value": "Đã sao chép"
+    },
+    {
+      "name": "create_profile",
+      "value": "Tạo cấu hình"
+    },
+    {
+      "name": "dark_mode",
+      "value": "Chế độ tối"
+    },
+    {
+      "name": "debug",
+      "value": "Gỡ lỗi"
+    },
+    {
+      "name": "default_",
+      "value": "Mặc định"
+    },
+    {
+      "name": "default_name_server",
+      "value": "Máy chủ định danh mặc định"
+    },
+    {
+      "name": "delay",
+      "value": "Độ trễ"
+    },
+    {
+      "name": "delay_test",
+      "value": "Kiểm tra độ trễ"
+    },
+    {
+      "name": "delete",
+      "value": "Xoá"
+    },
+    {
+      "name": "delete_all_logs",
+      "value": "Xóa tất cả nhật ký"
+    },
+    {
+      "name": "delete_all_logs_warn",
+      "value": "Tất cả nhật ký lịch sử sẽ *MẤT*"
+    },
+    {
+      "name": "deny_selected_apps",
+      "value": "Từ chối các ứng dụng đã chọn"
+    },
+    {
+      "name": "detail",
+      "value": "Chi tiết"
+    },
+    {
+      "name": "direct_mode",
+      "value": "Chế độ trực tiếp"
+    },
+    {
+      "name": "disabled",
+      "value": "Vô hiệu hóa"
+    },
+    {
+      "name": "dns",
+      "value": "DNS"
+    },
+    {
+      "name": "dns_hijacking",
+      "value": "Định tuyến qua DNS"
+    },
+    {
+      "name": "dns_hijacking_summary",
+      "value": "Xử lý tất cả gói DNS"
+    },
+    {
+      "name": "document",
+      "value": "Tài liệu"
+    },
+    {
+      "name": "domain_fallback",
+      "value": "Dự phòng miền"
+    },
+    {
+      "name": "donate",
+      "value": "Quyên góp"
+    },
+    {
+      "name": "dont_modify",
+      "value": "Chưa sửa đổi"
+    },
+    {
+      "name": "duplicate",
+      "value": "Tạo bản sao"
+    },
+    {
+      "name": "edit",
+      "value": "Sửa"
+    },
+    {
+      "name": "empty",
+      "value": "Trống"
+    },
+    {
+      "name": "empty_name",
+      "value": "Tên trống"
+    },
+    {
+      "name": "enabled",
+      "value": "Bật"
+    },
+    {
+      "name": "enhanced_mode",
+      "value": "Chế độ nâng cao"
+    },
+    {
+      "name": "error",
+      "value": "Lỗi"
+    },
+    {
+      "name": "exit_without_save",
+      "value": "Thoát mà không lưu"
+    },
+    {
+      "name": "exit_without_save_warning",
+      "value": "Tất cả thay đổi sẽ *MẤT*"
+    },
+    {
+      "name": "export",
+      "value": "Xuất"
+    },
+    {
+      "name": "export_to_clipboard",
+      "value": "Nhập từ khay nhớ tạm"
+    },
+    {
+      "name": "external",
+      "value": "Bên ngoài"
+    },
+    {
+      "name": "fakeip",
+      "value": "Fake-IP thành ánh xạ miền"
+    },
+    {
+      "name": "fakeip_filter",
+      "value": "Bộ lọc Fake-IP"
+    },
+    {
+      "name": "fallback",
+      "value": "Máy chủ tên dự phòng"
+    },
+    {
+      "name": "feedback",
+      "value": "Phản hồi"
+    },
+    {
+      "name": "file",
+      "value": "Tệp"
+    },
+    {
+      "name": "file_exported",
+      "value": "Tệp đã xuất"
+    },
+    {
+      "name": "file_name",
+      "value": "Tên tệp"
+    },
+    {
+      "name": "files",
+      "value": "Tệp"
+    },
+    {
+      "name": "filter",
+      "value": "Bộ lọc"
+    },
+    {
+      "name": "follow_system_android_10",
+      "value": "Theo hệ thống (Android 10+)"
+    },
+    {
+      "name": "force_enable",
+      "value": "Buộc bật"
+    },
+    {
+      "name": "format_days_ago",
+      "value": "%d ngày trước"
+    },
+    {
+      "name": "format_elements",
+      "value": "%d elements"
+    },
+    {
+      "name": "format_fetching_configuration",
+      "value": "Tìm nạp cấu hình từ '%s'"
+    },
+    {
+      "name": "format_fetching_provider",
+      "value": "Nhà cung cấp tìm nạp '%s'"
+    },
+    {
+      "name": "format_hours_ago",
+      "value": "%d giờ trước"
+    },
+    {
+      "name": "format_minutes",
+      "value": "%d phút"
+    },
+    {
+      "name": "format_minutes_ago",
+      "value": "%d phút trước"
+    },
+    {
+      "name": "format_months_ago",
+      "value": "%d tháng trước"
+    },
+    {
+      "name": "format_profile_activated",
+      "value": "%s đang sử dụng"
+    },
+    {
+      "name": "format_provider_type",
+      "value": "%1$s(%2$s)"
+    },
+    {
+      "name": "format_traffic_forwarded",
+      "value": "%s được sử dụng"
+    },
+    {
+      "name": "format_type_unsaved",
+      "value": "%s (Chưa lưu)"
+    },
+    {
+      "name": "format_update_complete",
+      "value": "Cập nhật %s thành công"
+    },
+    {
+      "name": "format_update_failure",
+      "value": "Cập nhật %1$s: %2$s"
+    },
+    {
+      "name": "format_update_provider_failure",
+      "value": "Cập nhật %1$s: %2$s"
+    },
+    {
+      "name": "format_years_ago",
+      "value": "%d năm trước"
+    },
+    {
+      "name": "general",
+      "value": "Chung"
+    },
+    {
+      "name": "geofile_import_failed",
+      "value": "Nhập thất bại"
+    },
+    {
+      "name": "geoip_fallback",
+      "value": "Dự phòng GeoIP"
+    },
+    {
+      "name": "geoip_fallback_code",
+      "value": "Mã dự phòng GeoIP"
+    },
+    {
+      "name": "github_issues",
+      "value": "Sự cố trên Github"
+    },
+    {
+      "name": "github_releases",
+      "value": "Bản phát hành trên Github"
+    },
+    {
+      "name": "global_mode",
+      "value": "Chế độ toàn cầu"
+    },
+    {
+      "name": "help",
+      "value": "Trợ giúp"
+    },
+    {
+      "name": "history",
+      "value": "Lịch sử"
+    },
+    {
+      "name": "hosts",
+      "value": "Hosts"
+    },
+    {
+      "name": "http",
+      "value": "HTTP"
+    },
+    {
+      "name": "http_port",
+      "value": "Cổng HTTP"
+    },
+    {
+      "name": "import_",
+      "value": "Nhập"
+    },
+    {
+      "name": "import_from_clipboard",
+      "value": "Nhập từ khay nhớ tạm"
+    },
+    {
+      "name": "import_from_file",
+      "value": "Nhập từ tệp"
+    },
+    {
+      "name": "import_from_qr",
+      "value": "Nhập từ Mã QR"
+    },
+    {
+      "name": "import_from_qr_exception",
+      "value": "Đã xảy ra ngoại lệ hệ thống không xử lý được."
+    },
+    {
+      "name": "import_from_qr_no_permission",
+      "value": "Quyền truy cập camera bị hạn chế. Vui lòng bật trong Cài đặt."
+    },
+    {
+      "name": "import_from_url",
+      "value": "Nhập từ liên kết URL"
+    },
+    {
+      "name": "info",
+      "value": "Thông tin"
+    },
+    {
+      "name": "initializing",
+      "value": "Khởi tạo"
+    },
+    {
+      "name": "install_time",
+      "value": "Thời gian cài đặt"
+    },
+    {
+      "name": "interface_",
+      "value": "Giao diện"
+    },
+    {
+      "name": "invalid_file_name",
+      "value": "Tên tệp không hợp lệ"
+    },
+    {
+      "name": "invalid_log_file",
+      "value": "Tệp nhật ký không hợp lệ"
+    },
+    {
+      "name": "invalid_url",
+      "value": "Liên kết URL không hợp lệ"
+    },
+    {
+      "name": "ipcidr_fallback",
+      "value": "Dự phòng IPCIDR"
+    },
+    {
+      "name": "ipv6",
+      "value": "IPv6"
+    },
+    {
+      "name": "key",
+      "value": "Khoá"
+    },
+    {
+      "name": "keyword",
+      "value": "Từ khoá"
+    },
+    {
+      "name": "launch_name_alpha",
+      "value": "Clash Meta"
+    },
+    {
+      "name": "launch_name_meta",
+      "value": "Clash Meta"
+    },
+    {
+      "name": "layout",
+      "value": "Bố cục"
+    },
+    {
+      "name": "listen",
+      "value": "Nghe"
+    },
+    {
+      "name": "loading",
+      "value": "Đang tải"
+    },
+    {
+      "name": "log_level",
+      "value": "Mức nhật ký"
+    },
+    {
+      "name": "logcat",
+      "value": "Nhật ký"
+    },
+    {
+      "name": "logs",
+      "value": "Nhật ký"
+    },
+    {
+      "name": "mapping",
+      "value": "IP thực với ánh xạ miền"
+    },
+    {
+      "name": "meta_features",
+      "value": "Tính năng của Clash Meta"
+    },
+    {
+      "name": "mixed_port",
+      "value": "Cổng Mixed"
+    },
+    {
+      "name": "mode",
+      "value": "Chế độ"
+    },
+    {
+      "name": "mode_switch_tips",
+      "value": "Chỉ hợp lệ cho phiên hiện tại"
+    },
+    {
+      "name": "more",
+      "value": "Thêm"
+    },
+    {
+      "name": "multiple",
+      "value": "Nhiều"
+    },
+    {
+      "name": "name",
+      "value": "Tên"
+    },
+    {
+      "name": "name_server",
+      "value": "Tên máy chủ"
+    },
+    {
+      "name": "name_server_policy",
+      "value": "Chính sách máy chủ định danh"
+    },
+    {
+      "name": "network",
+      "value": "Mạng"
+    },
+    {
+      "name": "new_profile",
+      "value": "Cấu hình mới"
+    },
+    {
+      "name": "no_profile_selected",
+      "value": "Không có cấu hình"
+    },
+    {
+      "name": "not_selectable",
+      "value": "Không thể chọn"
+    },
+    {
+      "name": "not_selected",
+      "value": "Trống. Nhấn vào để thêm"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "options_unavailable",
+      "value": "Tùy chọn không khả dụng cho đến khi Clash ngắt kết nối"
+    },
+    {
+      "name": "override",
+      "value": "Cài đặt thêm"
+    },
+    {
+      "name": "package_name",
+      "value": "Tên gói"
+    },
+    {
+      "name": "press_to_import",
+      "value": "Chạm để nhập..."
+    },
+    {
+      "name": "profile",
+      "value": "Cấu hình"
+    },
+    {
+      "name": "profile_name",
+      "value": "Tên cấu hình"
+    },
+    {
+      "name": "profile_process_result",
+      "value": "Kết quả xử lý cấu hình"
+    },
+    {
+      "name": "profile_process_status",
+      "value": "Trạng thái xử lý cấu hình"
+    },
+    {
+      "name": "profile_service_status",
+      "value": "Trạng thái dịch vụ cấu hình"
+    },
+    {
+      "name": "profile_updater",
+      "value": "Trình cập nhật cấu hình"
+    },
+    {
+      "name": "profile_updating",
+      "value": "Cập nhật cấu hình"
+    },
+    {
+      "name": "profile_url",
+      "value": "Liên kết URL cấu hình"
+    },
+    {
+      "name": "profiles",
+      "value": "Cấu hình"
+    },
+    {
+      "name": "properties",
+      "value": "Thuộc tính"
+    },
+    {
+      "name": "provider_files",
+      "value": "Tệp nhà cung cấp"
+    },
+    {
+      "name": "providers",
+      "value": "Nhà cung cấp"
+    },
+    {
+      "name": "proxy",
+      "value": "Proxy"
+    },
+    {
+      "name": "proxy_empty_tips",
+      "value": "Không có nhóm nào được hiển thị"
+    },
+    {
+      "name": "qr_code_generation_failed",
+      "value": "Không thể tạo mã QR cho liên kết này."
+    },
+    {
+      "name": "recently",
+      "value": "Vừa xong"
+    },
+    {
+      "name": "redirect_port",
+      "value": "Cổng Redirect"
+    },
+    {
+      "name": "reinstall",
+      "value": "Cài đặt lại"
+    },
+    {
+      "name": "rename",
+      "value": "Đổi tên"
+    },
+    {
+      "name": "reset",
+      "value": "Đặt lại"
+    },
+    {
+      "name": "reset_override_settings",
+      "value": "Đặt lại cài đặt ghi đè"
+    },
+    {
+      "name": "reset_override_settings_message",
+      "value": "Tất cả cài đặt ghi đè sẽ bị hủy"
+    },
+    {
+      "name": "reverse",
+      "value": "Đảo ngược"
+    },
+    {
+      "name": "route_system_traffic",
+      "value": "Định tuyến lưu lượng hệ thống"
+    },
+    {
+      "name": "routing_via_vpn_service",
+      "value": "Tự động định tuyến tất cả lưu lượng hệ thống qua VpnService"
+    },
+    {
+      "name": "rule",
+      "value": "Quy tắc"
+    },
+    {
+      "name": "rule_mode",
+      "value": "Chế độ quy tắc"
+    },
+    {
+      "name": "running",
+      "value": "Đang kết nối"
+    },
+    {
+      "name": "save",
+      "value": "Lưu"
+    },
+    {
+      "name": "script_mode",
+      "value": "Chế độ tập lệnh"
+    },
+    {
+      "name": "search",
+      "value": "Tìm kiếm"
+    },
+    {
+      "name": "select_all",
+      "value": "Chọn tất cả"
+    },
+    {
+      "name": "select_invert",
+      "value": "Chọn Đảo ngược"
+    },
+    {
+      "name": "select_none",
+      "value": "Không chọn"
+    },
+    {
+      "name": "service",
+      "value": "Dịch vụ"
+    },
+    {
+      "name": "settings",
+      "value": "Cài đặt"
+    },
+    {
+      "name": "share_qr_code",
+      "value": "Chia sẻ mã QR"
+    },
+    {
+      "name": "should_not_be_blank",
+      "value": "Không được để trống"
+    },
+    {
+      "name": "show_traffic",
+      "value": "Hiển thị lưu lượng truy cập"
+    },
+    {
+      "name": "show_traffic_summary",
+      "value": "Tự động làm mới lưu lượng truy cập trong thông báo"
+    },
+    {
+      "name": "sideload_geoip",
+      "value": "Sideload GEOIP"
+    },
+    {
+      "name": "sideload_geoip_summary",
+      "value": "Cơ sở dữ liệu GEOIP bên ngoài"
+    },
+    {
+      "name": "silent",
+      "value": "Im lặng"
+    },
+    {
+      "name": "single",
+      "value": "Đơn"
+    },
+    {
+      "name": "socks_port",
+      "value": "Cổng Socks"
+    },
+    {
+      "name": "sort",
+      "value": "Sắp xếp theo"
+    },
+    {
+      "name": "sources",
+      "value": "Nguồn"
+    },
+    {
+      "name": "stopped",
+      "value": "Đã ngắt kết nối"
+    },
+    {
+      "name": "strategy",
+      "value": "Strategy"
+    },
+    {
+      "name": "system_apps",
+      "value": "Ứng dụng hệ thống"
+    },
+    {
+      "name": "system_proxy",
+      "value": "Proxy hệ thống"
+    },
+    {
+      "name": "system_proxy_summary",
+      "value": "Đính kèm proxy,http vào hệ thống Vpn"
+    },
+    {
+      "name": "tap_to_start",
+      "value": "Chạm để kết nối"
+    },
+    {
+      "name": "tips_help",
+      "value": "Clash Meta là một phần mềm miễn phí và chúng tôi KHÔNG cung cấp bất kỳ dịch vụ trả phí nào cho nó"
+    },
+    {
+      "name": "tips_properties",
+      "value": "Chỉ chấp nhận cấu hình Clash bao gồm Proxy và Quy tắc"
+    },
+    {
+      "name": "toast_profile_updated_complete",
+      "value": "Cập nhật thành công %s"
+    },
+    {
+      "name": "toast_profile_updated_failed",
+      "value": "Cập nhật không thành công %1$s %2$s"
+    },
+    {
+      "name": "tproxy_port",
+      "value": "Cổng TProxy"
+    },
+    {
+      "name": "tun_stack_gvisor",
+      "value": "Gvisor"
+    },
+    {
+      "name": "tun_stack_mips",
+      "value": "Mips"
+    },
+    {
+      "name": "tun_stack_mixed",
+      "value": "Mixed"
+    },
+    {
+      "name": "tun_stack_mode",
+      "value": "Chế độ xếp chồng dữ liệu"
+    },
+    {
+      "name": "tun_stack_system",
+      "value": "Hệ thống"
+    },
+    {
+      "name": "unable_to_start_vpn",
+      "value": "Không thể khởi động thành phần VPN"
+    },
+    {
+      "name": "unavailable",
+      "value": "Không có sẵn"
+    },
+    {
+      "name": "update",
+      "value": "Cập nhật"
+    },
+    {
+      "name": "update_all",
+      "value": "Cập nhật tất cả"
+    },
+    {
+      "name": "update_failure",
+      "value": "Cập nhật thất bại"
+    },
+    {
+      "name": "update_successfully",
+      "value": "Cập nhật thành công"
+    },
+    {
+      "name": "update_time",
+      "value": "Thời gian cập nhật"
+    },
+    {
+      "name": "url",
+      "value": "Liên kết URL"
+    },
+    {
+      "name": "use_built_in",
+      "value": "Sử dụng tích hợp"
+    },
+    {
+      "name": "use_hosts",
+      "value": "Sử dụng Hosts"
+    },
+    {
+      "name": "value",
+      "value": "Giá trị"
+    },
+    {
+      "name": "verifying",
+      "value": "Đang xác minh"
+    },
+    {
+      "name": "version_updated",
+      "value": "Đã cập nhật ứng dụng"
+    },
+    {
+      "name": "version_updated_tips",
+      "value": "Các cài đặt đã được đặt lại và các cấu hình cũ cần được lưu lại."
+    },
+    {
+      "name": "vpn_service_options",
+      "value": "Tuỳ chọn VpnService"
+    },
+    {
+      "name": "warning",
+      "value": "Cảnh báo"
+    }
+  ]
+}

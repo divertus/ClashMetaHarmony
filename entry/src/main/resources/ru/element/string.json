@@ -1,0 +1,1104 @@
+{
+  "string": [
+    {
+      "name": "_new",
+      "value": "Новый"
+    },
+    {
+      "name": "about",
+      "value": "О программе"
+    },
+    {
+      "name": "accept_http_content",
+      "value": "Принимать только http(s)"
+    },
+    {
+      "name": "access_control_mode",
+      "value": "Режим контроля доступа"
+    },
+    {
+      "name": "access_control_packages",
+      "value": "Приложения с контролируемым доступом"
+    },
+    {
+      "name": "access_control_packages_summary",
+      "value": "Настройте доступ для приложения"
+    },
+    {
+      "name": "active_unsaved_tips",
+      "value": "Профиль должен быть сохранён перед активацией"
+    },
+    {
+      "name": "age_key_category",
+      "value": "Ключ Age"
+    },
+    {
+      "name": "age_key_copy",
+      "value": "Копировать"
+    },
+    {
+      "name": "age_key_generate",
+      "value": "Сгенерировать"
+    },
+    {
+      "name": "age_key_generate_summary",
+      "value": "Нажмите, чтобы сгенерировать"
+    },
+    {
+      "name": "age_key_helper",
+      "value": "Ключ Age"
+    },
+    {
+      "name": "age_key_to_public",
+      "value": "Из секретного ключа"
+    },
+    {
+      "name": "age_public_key",
+      "value": "Открытый ключ Age"
+    },
+    {
+      "name": "age_public_key_error",
+      "value": "Недействительный открытый ключ Age"
+    },
+    {
+      "name": "age_secret_key",
+      "value": "Секретный ключ Age"
+    },
+    {
+      "name": "age_secret_key_error",
+      "value": "Недопустимый формат. Ключ должен начинаться с AGE-SECRET-KEY-"
+    },
+    {
+      "name": "age_secret_key_hint",
+      "value": "AGE-SECRET-KEY-… (необязательно)"
+    },
+    {
+      "name": "allow_all_apps",
+      "value": "Разрешить все приложения"
+    },
+    {
+      "name": "allow_bypass",
+      "value": "Разрешить обход"
+    },
+    {
+      "name": "allow_bypass_summary",
+      "value": "Разрешить приложениям обходить VPN соединение"
+    },
+    {
+      "name": "allow_clash_auto_restart",
+      "value": "Разрешить Clash автоматически перезапускаться"
+    },
+    {
+      "name": "allow_lan",
+      "value": "Разрешить LAN"
+    },
+    {
+      "name": "allow_selected_apps",
+      "value": "Разрешить выбранные приложения"
+    },
+    {
+      "name": "always",
+      "value": "Принудительно включить"
+    },
+    {
+      "name": "always_dark",
+      "value": "Всегда тёмная"
+    },
+    {
+      "name": "always_light",
+      "value": "Всегда светлая"
+    },
+    {
+      "name": "app",
+      "value": "Приложение"
+    },
+    {
+      "name": "append_system_dns",
+      "value": "Добавить системный DNS"
+    },
+    {
+      "name": "application_broken",
+      "value": "Приложение сломано"
+    },
+    {
+      "name": "application_broken_tips",
+      "value": "Приложению не хватает необходимых для запуска компонентов, что обычно вызвано загрузкой неполного apk."
+    },
+    {
+      "name": "application_crashed",
+      "value": "Приложение упало"
+    },
+    {
+      "name": "at_least_15_minutes",
+      "value": "Не менее 15 минут или пустой"
+    },
+    {
+      "name": "authentication",
+      "value": "Аутентификация"
+    },
+    {
+      "name": "auto_restart",
+      "value": "Автоматический перезапуск"
+    },
+    {
+      "name": "auto_update",
+      "value": "Автообновление"
+    },
+    {
+      "name": "auto_update_minutes",
+      "value": "Автообновление (минут)"
+    },
+    {
+      "name": "behavior",
+      "value": "Поведение"
+    },
+    {
+      "name": "bind_address",
+      "value": "Задать адрес"
+    },
+    {
+      "name": "block_loopback",
+      "value": "Заблокировать loopback"
+    },
+    {
+      "name": "block_loopback_summary",
+      "value": "Заблокировать loopback-соединения"
+    },
+    {
+      "name": "browse_configuration_providers",
+      "value": "Обзор конфигурации и провайдеров"
+    },
+    {
+      "name": "browse_files",
+      "value": "Обзор файлов"
+    },
+    {
+      "name": "bypass_private_network",
+      "value": "Игнорировать частные сети"
+    },
+    {
+      "name": "bypass_private_network_summary",
+      "value": "Игнорировать адреса частных сетей"
+    },
+    {
+      "name": "cancel",
+      "value": "Отмена"
+    },
+    {
+      "name": "clash_logcat",
+      "value": "Clash Logcat"
+    },
+    {
+      "name": "clash_meta_core",
+      "value": "Ядро Clash Meta"
+    },
+    {
+      "name": "clash_meta_core_url",
+      "value": "https://github.com/MetaCubeX/Clash.Meta"
+    },
+    {
+      "name": "clash_meta_for_android",
+      "value": "Clash Meta для Android"
+    },
+    {
+      "name": "clash_meta_wiki",
+      "value": "Clash Meta Wiki"
+    },
+    {
+      "name": "clash_meta_wiki_url",
+      "value": "https://docs.metacubex.one/"
+    },
+    {
+      "name": "clash_wiki",
+      "value": "Clash Wiki"
+    },
+    {
+      "name": "clash_wiki_url",
+      "value": "https://github.com/Dreamacro/clash/wiki"
+    },
+    {
+      "name": "close",
+      "value": "Закрыть"
+    },
+    {
+      "name": "compatible",
+      "value": "Совместимо"
+    },
+    {
+      "name": "copied",
+      "value": "Скопировано"
+    },
+    {
+      "name": "create_profile",
+      "value": "Создать профиль"
+    },
+    {
+      "name": "dark_mode",
+      "value": "Тёмный режим"
+    },
+    {
+      "name": "debug",
+      "value": "Отладка"
+    },
+    {
+      "name": "default_",
+      "value": "По умолчанию"
+    },
+    {
+      "name": "default_name_server",
+      "value": "Сервер имён по умолчанию"
+    },
+    {
+      "name": "delay",
+      "value": "Задержка"
+    },
+    {
+      "name": "delay_test",
+      "value": "Проверка задержки"
+    },
+    {
+      "name": "delete",
+      "value": "Удалить"
+    },
+    {
+      "name": "delete_all_logs",
+      "value": "Удалить все логи"
+    },
+    {
+      "name": "delete_all_logs_warn",
+      "value": "Вся история будет ПОТЕРЯНА"
+    },
+    {
+      "name": "deny_selected_apps",
+      "value": "Запретить выбранные приложения"
+    },
+    {
+      "name": "detail",
+      "value": "Детали"
+    },
+    {
+      "name": "direct_mode",
+      "value": "Прямой режим"
+    },
+    {
+      "name": "disable_sniffer",
+      "value": "Отключить перехват доменов"
+    },
+    {
+      "name": "disabled",
+      "value": "Отключен"
+    },
+    {
+      "name": "dns",
+      "value": "DNS"
+    },
+    {
+      "name": "dns_hijacking",
+      "value": "Перехват DNS"
+    },
+    {
+      "name": "dns_hijacking_summary",
+      "value": "Обрабатывать все DNS запросы"
+    },
+    {
+      "name": "document",
+      "value": "Документ"
+    },
+    {
+      "name": "domain_fallback",
+      "value": "Резервный домен"
+    },
+    {
+      "name": "donate",
+      "value": "Сделать пожертвование"
+    },
+    {
+      "name": "dont_modify",
+      "value": "Не менять"
+    },
+    {
+      "name": "doubles",
+      "value": "Двойное"
+    },
+    {
+      "name": "duplicate",
+      "value": "Создать копию"
+    },
+    {
+      "name": "edit",
+      "value": "Изменить"
+    },
+    {
+      "name": "empty",
+      "value": "Пусто"
+    },
+    {
+      "name": "empty_name",
+      "value": "Пустое название"
+    },
+    {
+      "name": "enabled",
+      "value": "Включено"
+    },
+    {
+      "name": "enhanced_mode",
+      "value": "Расширенный режим"
+    },
+    {
+      "name": "error",
+      "value": "Ошибка"
+    },
+    {
+      "name": "exit_without_save",
+      "value": "Выйти без сохранения"
+    },
+    {
+      "name": "exit_without_save_warning",
+      "value": "Все изменения будут ПОТЕРЯНЫ"
+    },
+    {
+      "name": "export",
+      "value": "Экспорт"
+    },
+    {
+      "name": "export_to_clipboard",
+      "value": "Экспорт в буфер обмена"
+    },
+    {
+      "name": "external",
+      "value": "Внешний"
+    },
+    {
+      "name": "external_control_activity",
+      "value": "External Control"
+    },
+    {
+      "name": "external_control_started",
+      "value": "Clash.Meta service started"
+    },
+    {
+      "name": "external_control_stopped",
+      "value": "Clash.Meta service stopped"
+    },
+    {
+      "name": "fakeip",
+      "value": "Сопоставление подставных IP доменам"
+    },
+    {
+      "name": "fakeip_filter",
+      "value": "Фильтр подставных IP"
+    },
+    {
+      "name": "fallback",
+      "value": "Резервный сервер имён"
+    },
+    {
+      "name": "feedback",
+      "value": "Обратная связь"
+    },
+    {
+      "name": "file",
+      "value": "Файл"
+    },
+    {
+      "name": "file_exported",
+      "value": "Файл экспортирован"
+    },
+    {
+      "name": "file_name",
+      "value": "Название файла"
+    },
+    {
+      "name": "files",
+      "value": "Файлы"
+    },
+    {
+      "name": "filter",
+      "value": "Фильтр"
+    },
+    {
+      "name": "find_process_mode",
+      "value": "Найти режим процесса"
+    },
+    {
+      "name": "follow_system_android_10",
+      "value": "Как в системе (Android 10+)"
+    },
+    {
+      "name": "force_dns_mapping",
+      "value": "Force DNS Mapping"
+    },
+    {
+      "name": "force_domain",
+      "value": "Принудительный перехват доменов"
+    },
+    {
+      "name": "force_enable",
+      "value": "Включить принудительно"
+    },
+    {
+      "name": "format_days_ago",
+      "value": "%d дн. назад"
+    },
+    {
+      "name": "format_elements",
+      "value": "%d элементов"
+    },
+    {
+      "name": "format_fetching_configuration",
+      "value": "Загрузка настроек из '%s'"
+    },
+    {
+      "name": "format_fetching_provider",
+      "value": "Загрузка провайдера из '%s'"
+    },
+    {
+      "name": "format_hours_ago",
+      "value": "%d час. назад"
+    },
+    {
+      "name": "format_minutes",
+      "value": "%d мин."
+    },
+    {
+      "name": "format_minutes_ago",
+      "value": "%d мин. назад"
+    },
+    {
+      "name": "format_months_ago",
+      "value": "%d мес. назад"
+    },
+    {
+      "name": "format_profile_activated",
+      "value": "%s активирован"
+    },
+    {
+      "name": "format_provider_type",
+      "value": "%1$s(%2$s)"
+    },
+    {
+      "name": "format_traffic_forwarded",
+      "value": "%s перенаправлено"
+    },
+    {
+      "name": "format_type_unsaved",
+      "value": "%s (не сохранён)"
+    },
+    {
+      "name": "format_update_provider_failure",
+      "value": "Обновление %1$s: %2$s"
+    },
+    {
+      "name": "format_years_ago",
+      "value": "%d лет назад"
+    },
+    {
+      "name": "general",
+      "value": "Основные"
+    },
+    {
+      "name": "geodata_mode",
+      "value": "Режим геоданных"
+    },
+    {
+      "name": "geofile_import_failed",
+      "value": "Import failed"
+    },
+    {
+      "name": "geofile_imported",
+      "value": "%1$s imported"
+    },
+    {
+      "name": "geofile_unknown_db_format",
+      "value": "Unknown Database format"
+    },
+    {
+      "name": "geofile_unknown_db_format_message",
+      "value": "Only %1$s are supported"
+    },
+    {
+      "name": "geoip_fallback",
+      "value": "Резервный GeoIP"
+    },
+    {
+      "name": "geoip_fallback_code",
+      "value": "Код резервного GeoIP"
+    },
+    {
+      "name": "geoip_url",
+      "value": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/geoip.dat"
+    },
+    {
+      "name": "geosite_url",
+      "value": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/geosite.dat"
+    },
+    {
+      "name": "geox_files",
+      "value": "Geo Files"
+    },
+    {
+      "name": "geox_geoip",
+      "value": "GeoIP URL"
+    },
+    {
+      "name": "geox_geosite",
+      "value": "Geosite URL"
+    },
+    {
+      "name": "geox_mmdb",
+      "value": "MMDB URL"
+    },
+    {
+      "name": "geox_url_setting",
+      "value": "Настройка GeoX URL"
+    },
+    {
+      "name": "github_issues",
+      "value": "Сообщения об ошибках на GitHub"
+    },
+    {
+      "name": "github_releases",
+      "value": "Релизы на GitHub"
+    },
+    {
+      "name": "global_mode",
+      "value": "Глобальный режим"
+    },
+    {
+      "name": "google_play",
+      "value": "Google Play"
+    },
+    {
+      "name": "google_play_url",
+      "value": "https://play.google.com/store/apps/details?id=com.github.kr328.clash"
+    },
+    {
+      "name": "help",
+      "value": "Помощь"
+    },
+    {
+      "name": "history",
+      "value": "История"
+    },
+    {
+      "name": "hosts",
+      "value": "Hosts"
+    },
+    {
+      "name": "http",
+      "value": "HTTP"
+    },
+    {
+      "name": "http_port",
+      "value": "Порт HTTP"
+    },
+    {
+      "name": "import_",
+      "value": "Импорт"
+    },
+    {
+      "name": "import_country_file",
+      "value": "Import Country Database"
+    },
+    {
+      "name": "import_from_clipboard",
+      "value": "Импорт из буфера обмена"
+    },
+    {
+      "name": "import_from_file",
+      "value": "Импорт из файла"
+    },
+    {
+      "name": "import_from_qr",
+      "value": "Импорт из QR-кода"
+    },
+    {
+      "name": "import_from_qr_exception",
+      "value": "Произошла не обрабатываемая системная ошибка."
+    },
+    {
+      "name": "import_from_qr_no_permission",
+      "value": "Доступ к камере ограничен. Разрешите его в настройках."
+    },
+    {
+      "name": "import_from_url",
+      "value": "Импорт из URL"
+    },
+    {
+      "name": "import_geoip_file",
+      "value": "Import GeoIP Database"
+    },
+    {
+      "name": "import_geosite_file",
+      "value": "Import GeoSite Database"
+    },
+    {
+      "name": "info",
+      "value": "Инфо"
+    },
+    {
+      "name": "initializing",
+      "value": "Инициализация"
+    },
+    {
+      "name": "install_time",
+      "value": "Время установки"
+    },
+    {
+      "name": "interface_",
+      "value": "Интерфейс"
+    },
+    {
+      "name": "invalid_file_name",
+      "value": "Недопустимое название файла"
+    },
+    {
+      "name": "invalid_log_file",
+      "value": "Недопустимый лог файл"
+    },
+    {
+      "name": "invalid_url",
+      "value": "Неверный URL"
+    },
+    {
+      "name": "ipcidr_fallback",
+      "value": "Резервный IPCIDR"
+    },
+    {
+      "name": "ipv6",
+      "value": "IPv6"
+    },
+    {
+      "name": "key",
+      "value": "Ключ"
+    },
+    {
+      "name": "keyword",
+      "value": "Ключевое слово"
+    },
+    {
+      "name": "layout",
+      "value": "Отображение"
+    },
+    {
+      "name": "listen",
+      "value": "Ожидать"
+    },
+    {
+      "name": "loading",
+      "value": "Загрузка"
+    },
+    {
+      "name": "log_level",
+      "value": "Уровень логов"
+    },
+    {
+      "name": "logcat",
+      "value": "Logcat"
+    },
+    {
+      "name": "logs",
+      "value": "Логи"
+    },
+    {
+      "name": "mapping",
+      "value": "Сопоставление реальных IP доменам"
+    },
+    {
+      "name": "meta_features",
+      "value": "Функции Meta"
+    },
+    {
+      "name": "meta_github_url",
+      "value": "https://github.com/MetaCubeX/ClashMetaForAndroid"
+    },
+    {
+      "name": "mixed_port",
+      "value": "Смешанный порт"
+    },
+    {
+      "name": "mmdb_url",
+      "value": "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb"
+    },
+    {
+      "name": "mode",
+      "value": "Режим"
+    },
+    {
+      "name": "mode_switch_tips",
+      "value": "Действует только для текущей сессии"
+    },
+    {
+      "name": "more",
+      "value": "Ещё"
+    },
+    {
+      "name": "multiple",
+      "value": "Множественное"
+    },
+    {
+      "name": "name",
+      "value": "Название"
+    },
+    {
+      "name": "name_server",
+      "value": "Сервер имён"
+    },
+    {
+      "name": "name_server_policy",
+      "value": "Политика сервера имён"
+    },
+    {
+      "name": "network",
+      "value": "Сеть"
+    },
+    {
+      "name": "new_profile",
+      "value": "Новый профиль"
+    },
+    {
+      "name": "no_profile_selected",
+      "value": "Профиль не выбран"
+    },
+    {
+      "name": "not_selectable",
+      "value": "Not Selectable"
+    },
+    {
+      "name": "not_selected",
+      "value": "Не выбран"
+    },
+    {
+      "name": "off",
+      "value": "Принудительно закрыть"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "options_unavailable",
+      "value": "Настройки недоступны, пока Clash не будет остановлен"
+    },
+    {
+      "name": "override",
+      "value": "Переопределение"
+    },
+    {
+      "name": "override_destination",
+      "value": "Override Destination"
+    },
+    {
+      "name": "package_name",
+      "value": "Название пакета"
+    },
+    {
+      "name": "parse_pure_ip",
+      "value": "Parse Pure IP"
+    },
+    {
+      "name": "port_whitelist",
+      "value": "Список портов для перехвата"
+    },
+    {
+      "name": "prefer_h3",
+      "value": "Предпочитать HTTP/3"
+    },
+    {
+      "name": "press_to_import",
+      "value": "Press to import..."
+    },
+    {
+      "name": "profile",
+      "value": "Профиль"
+    },
+    {
+      "name": "profile_name",
+      "value": "Название профиля"
+    },
+    {
+      "name": "profile_url",
+      "value": "URL профиля"
+    },
+    {
+      "name": "profiles",
+      "value": "Профили"
+    },
+    {
+      "name": "properties",
+      "value": "Свойства"
+    },
+    {
+      "name": "providers",
+      "value": "Провайдеры"
+    },
+    {
+      "name": "proxy",
+      "value": "Прокси"
+    },
+    {
+      "name": "proxy_empty_tips",
+      "value": "Нет групп для отображения"
+    },
+    {
+      "name": "qr_code_generation_failed",
+      "value": "Не удалось создать QR-код для этой ссылки."
+    },
+    {
+      "name": "raw_cn",
+      "value": "cn"
+    },
+    {
+      "name": "recently",
+      "value": "Недавно"
+    },
+    {
+      "name": "redirect_port",
+      "value": "Порт перенаправления"
+    },
+    {
+      "name": "reinstall",
+      "value": "Переустановить"
+    },
+    {
+      "name": "rename",
+      "value": "Переименовать"
+    },
+    {
+      "name": "reset",
+      "value": "Сброс"
+    },
+    {
+      "name": "reset_override_settings",
+      "value": "Сбросить переопределённые настройки"
+    },
+    {
+      "name": "reset_override_settings_message",
+      "value": "Все переопределённые настройки будут сброшены"
+    },
+    {
+      "name": "reverse",
+      "value": "В обратном порядке"
+    },
+    {
+      "name": "route_system_traffic",
+      "value": "Маршрутизировать системный трафик"
+    },
+    {
+      "name": "routing_via_vpn_service",
+      "value": "Автоматически маршрутизировать весь системный трафик через VPN"
+    },
+    {
+      "name": "rule",
+      "value": "Правило"
+    },
+    {
+      "name": "rule_mode",
+      "value": "Режим правил"
+    },
+    {
+      "name": "running",
+      "value": "Запущен"
+    },
+    {
+      "name": "save",
+      "value": "Сохранить"
+    },
+    {
+      "name": "search",
+      "value": "Поиск"
+    },
+    {
+      "name": "select_all",
+      "value": "Выбрать всё"
+    },
+    {
+      "name": "select_invert",
+      "value": "Обратить выделение"
+    },
+    {
+      "name": "select_none",
+      "value": "Отменить выделение"
+    },
+    {
+      "name": "service",
+      "value": "Сервис"
+    },
+    {
+      "name": "settings",
+      "value": "Настройки"
+    },
+    {
+      "name": "share_qr_code",
+      "value": "Поделиться QR-кодом"
+    },
+    {
+      "name": "should_not_be_blank",
+      "value": "Не должно быть пустым"
+    },
+    {
+      "name": "show_traffic",
+      "value": "Показывать трафик"
+    },
+    {
+      "name": "show_traffic_summary",
+      "value": "Автоматически обновлять счётчик трафика в уведомлении"
+    },
+    {
+      "name": "silent",
+      "value": "Тихий"
+    },
+    {
+      "name": "single",
+      "value": "Одиночное"
+    },
+    {
+      "name": "skip_domain",
+      "value": "Исключения перехвата доменов"
+    },
+    {
+      "name": "sniffer",
+      "value": "Перехват доменов"
+    },
+    {
+      "name": "sniffer_config",
+      "value": "Использовать перехват доменов из конфига"
+    },
+    {
+      "name": "sniffer_override",
+      "value": "Переопределить настройки перехвата доменов"
+    },
+    {
+      "name": "sniffer_setting",
+      "value": "Настройки перехвата доменов"
+    },
+    {
+      "name": "sniffing",
+      "value": "Режим перехвата доменов"
+    },
+    {
+      "name": "socks_port",
+      "value": "Порт Socks"
+    },
+    {
+      "name": "sort",
+      "value": "Сортировка"
+    },
+    {
+      "name": "sources",
+      "value": "Исходный код"
+    },
+    {
+      "name": "stopped",
+      "value": "Остановлен"
+    },
+    {
+      "name": "strategy",
+      "value": "Стратегия"
+    },
+    {
+      "name": "strict",
+      "value": "Следовать настройкам конфигурации"
+    },
+    {
+      "name": "system_apps",
+      "value": "Системные приложения"
+    },
+    {
+      "name": "system_proxy",
+      "value": "Системный прокси"
+    },
+    {
+      "name": "system_proxy_summary",
+      "value": "Дополнительно запустить HTTP прокси, помимо VPN"
+    },
+    {
+      "name": "tap_to_start",
+      "value": "Нажмите для запуска"
+    },
+    {
+      "name": "tcp_concurrent",
+      "value": "Многопоточный TCP"
+    },
+    {
+      "name": "tips_help",
+      "value": "Clash Meta для Android — <strong>бесплатен</strong> и мы <strong>НЕ</strong> предоставляем по нему поддержку"
+    },
+    {
+      "name": "tips_properties",
+      "value": "Принимается только <strong>конфиг Clash</strong> (включая <strong>Прокси</strong>/<strong>Правила</strong>)"
+    },
+    {
+      "name": "toast_profile_updated_complete",
+      "value": "Update profile %s completed"
+    },
+    {
+      "name": "toast_profile_updated_failed",
+      "value": "Update profile %1$s failed: %2$s"
+    },
+    {
+      "name": "tproxy_port",
+      "value": "Порт TProxy"
+    },
+    {
+      "name": "unable_to_start_vpn",
+      "value": "Не удалось запустить компонент VPN"
+    },
+    {
+      "name": "unavailable",
+      "value": "Недоступен"
+    },
+    {
+      "name": "unified_delay",
+      "value": "Унифицированная задержка"
+    },
+    {
+      "name": "update",
+      "value": "Обновить"
+    },
+    {
+      "name": "update_all",
+      "value": "Обновить всё"
+    },
+    {
+      "name": "update_time",
+      "value": "Время обновления"
+    },
+    {
+      "name": "url",
+      "value": "URL"
+    },
+    {
+      "name": "use_built_in",
+      "value": "Использовать встроенный"
+    },
+    {
+      "name": "use_hosts",
+      "value": "Использовать Hosts"
+    },
+    {
+      "name": "value",
+      "value": "Значение"
+    },
+    {
+      "name": "verifying",
+      "value": "Проверка"
+    },
+    {
+      "name": "version_updated",
+      "value": "Приложение обновлено"
+    },
+    {
+      "name": "version_updated_tips",
+      "value": "Настройки были сброшены, старые профили необходимо сохранить повторно"
+    },
+    {
+      "name": "vpn_service_options",
+      "value": "Настройки VPN"
+    },
+    {
+      "name": "warning",
+      "value": "Предупреждение"
+    }
+  ]
+}

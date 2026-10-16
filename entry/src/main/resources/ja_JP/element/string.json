@@ -1,0 +1,1068 @@
+{
+  "string": [
+    {
+      "name": "_new",
+      "value": "新規"
+    },
+    {
+      "name": "about",
+      "value": "アプリについて"
+    },
+    {
+      "name": "accept_http_content",
+      "value": "http(s) のみを許可"
+    },
+    {
+      "name": "access_control_mode",
+      "value": "アクセスコントロールモード"
+    },
+    {
+      "name": "access_control_packages",
+      "value": "アクセスコントロールリスト"
+    },
+    {
+      "name": "access_control_packages_summary",
+      "value": "アプリプロファイルへのアクセスを許可"
+    },
+    {
+      "name": "active_unsaved_tips",
+      "value": "プロファイルを有効にする前に保存する必要があります"
+    },
+    {
+      "name": "age_key_category",
+      "value": "Age 鍵"
+    },
+    {
+      "name": "age_key_copy",
+      "value": "コピー"
+    },
+    {
+      "name": "age_key_generate",
+      "value": "生成"
+    },
+    {
+      "name": "age_key_generate_summary",
+      "value": "タップして生成"
+    },
+    {
+      "name": "age_key_helper",
+      "value": "Age 鍵"
+    },
+    {
+      "name": "age_key_to_public",
+      "value": "秘密鍵から生成"
+    },
+    {
+      "name": "age_public_key",
+      "value": "Age 公開鍵"
+    },
+    {
+      "name": "age_public_key_error",
+      "value": "無効な Age 公開鍵"
+    },
+    {
+      "name": "age_secret_key",
+      "value": "Age 秘密鍵"
+    },
+    {
+      "name": "age_secret_key_error",
+      "value": "形式が無効です。キーは AGE-SECRET-KEY- で始まる必要があります"
+    },
+    {
+      "name": "age_secret_key_hint",
+      "value": "AGE-SECRET-KEY-… (任意)"
+    },
+    {
+      "name": "allow_all_apps",
+      "value": "すべてのアプリを許可"
+    },
+    {
+      "name": "allow_bypass",
+      "value": "アプリのバイパスを許可"
+    },
+    {
+      "name": "allow_bypass_summary",
+      "value": "アプリにVPNのバイパスを許可"
+    },
+    {
+      "name": "allow_clash_auto_restart",
+      "value": "Clashの自動リスタートを許可"
+    },
+    {
+      "name": "allow_lan",
+      "value": "LANからの接続を許可"
+    },
+    {
+      "name": "allow_selected_apps",
+      "value": "選択したアプリのみを許可"
+    },
+    {
+      "name": "always",
+      "value": "Always"
+    },
+    {
+      "name": "always_dark",
+      "value": "常にダークモード"
+    },
+    {
+      "name": "always_light",
+      "value": "常にライトモード"
+    },
+    {
+      "name": "app",
+      "value": "アプリ"
+    },
+    {
+      "name": "append_system_dns",
+      "value": "システムDNSを追加"
+    },
+    {
+      "name": "application_broken",
+      "value": "アプリが破損しています"
+    },
+    {
+      "name": "application_broken_tips",
+      "value": "アプリに必要なコンポーネントに問題があります。不完全なapkのダウンロードが原因のようです。"
+    },
+    {
+      "name": "application_crashed",
+      "value": "アプリがクラッシュしました"
+    },
+    {
+      "name": "at_least_15_minutes",
+      "value": "15分以上か空白にしてください"
+    },
+    {
+      "name": "authentication",
+      "value": "認証"
+    },
+    {
+      "name": "auto_restart",
+      "value": "自動リスタート"
+    },
+    {
+      "name": "auto_update",
+      "value": "自動更新"
+    },
+    {
+      "name": "auto_update_minutes",
+      "value": "自動更新 (分)"
+    },
+    {
+      "name": "behavior",
+      "value": "動作"
+    },
+    {
+      "name": "bind_address",
+      "value": "リスニングアドレス"
+    },
+    {
+      "name": "block_loopback",
+      "value": "ループバックをブロックする"
+    },
+    {
+      "name": "block_loopback_summary",
+      "value": "ループバックをブロック"
+    },
+    {
+      "name": "browse_configuration_providers",
+      "value": "プロファイルと外部リソースを表示"
+    },
+    {
+      "name": "browse_files",
+      "value": "ファイルを表示"
+    },
+    {
+      "name": "bypass_private_network",
+      "value": "プライベートネットワークをバイパスする"
+    },
+    {
+      "name": "bypass_private_network_summary",
+      "value": "プライベートネットワークアドレスをバイパスする"
+    },
+    {
+      "name": "cancel",
+      "value": "キャンセル"
+    },
+    {
+      "name": "clash_logcat",
+      "value": "Clash Logcat"
+    },
+    {
+      "name": "clash_meta_core",
+      "value": "Clash Meta Core"
+    },
+    {
+      "name": "clash_meta_for_android",
+      "value": "Clash Meta for Android"
+    },
+    {
+      "name": "clash_meta_wiki",
+      "value": "Clash Meta Wiki"
+    },
+    {
+      "name": "clash_wiki",
+      "value": "Clash Wiki"
+    },
+    {
+      "name": "close",
+      "value": "閉じる"
+    },
+    {
+      "name": "compatible",
+      "value": "互換"
+    },
+    {
+      "name": "copied",
+      "value": "コピーしました"
+    },
+    {
+      "name": "create_profile",
+      "value": "プロファイルの作成"
+    },
+    {
+      "name": "dark_mode",
+      "value": "ダークモード"
+    },
+    {
+      "name": "debug",
+      "value": "デバッグ"
+    },
+    {
+      "name": "default_",
+      "value": "デフォルト"
+    },
+    {
+      "name": "default_name_server",
+      "value": "デフォルトのネームサーバー"
+    },
+    {
+      "name": "delay",
+      "value": "レイテンシ"
+    },
+    {
+      "name": "delay_test",
+      "value": "接続テスト"
+    },
+    {
+      "name": "delete",
+      "value": "削除"
+    },
+    {
+      "name": "delete_all_logs",
+      "value": "すべてのログを削除"
+    },
+    {
+      "name": "delete_all_logs_warn",
+      "value": "すべてのログが削除されます"
+    },
+    {
+      "name": "deny_selected_apps",
+      "value": "選択したアプリを拒否"
+    },
+    {
+      "name": "detail",
+      "value": "詳細"
+    },
+    {
+      "name": "direct_mode",
+      "value": "ダイレクトモード"
+    },
+    {
+      "name": "disable_sniffer",
+      "value": "Disable Sniffer"
+    },
+    {
+      "name": "disabled",
+      "value": "無効にする"
+    },
+    {
+      "name": "dns",
+      "value": "DNS"
+    },
+    {
+      "name": "dns_hijacking",
+      "value": "DNSハイジャック"
+    },
+    {
+      "name": "dns_hijacking_summary",
+      "value": "すべてのDNSパケットの処理"
+    },
+    {
+      "name": "document",
+      "value": "ドキュメント"
+    },
+    {
+      "name": "domain_fallback",
+      "value": "ドメインフォールバック"
+    },
+    {
+      "name": "donate",
+      "value": "寄付"
+    },
+    {
+      "name": "dont_modify",
+      "value": "変更しない"
+    },
+    {
+      "name": "doubles",
+      "value": "ダブルカラム"
+    },
+    {
+      "name": "duplicate",
+      "value": "複製"
+    },
+    {
+      "name": "edit",
+      "value": "編集"
+    },
+    {
+      "name": "empty",
+      "value": "空の名前"
+    },
+    {
+      "name": "empty_name",
+      "value": "空の名前"
+    },
+    {
+      "name": "enabled",
+      "value": "有効"
+    },
+    {
+      "name": "enhanced_mode",
+      "value": "拡張モード"
+    },
+    {
+      "name": "error",
+      "value": "エラー"
+    },
+    {
+      "name": "exit_without_save",
+      "value": "保存せずに閉じる"
+    },
+    {
+      "name": "exit_without_save_warning",
+      "value": "すべての変更は失われます"
+    },
+    {
+      "name": "export",
+      "value": "エクスポート"
+    },
+    {
+      "name": "export_to_clipboard",
+      "value": "クリップボードにエクスポート"
+    },
+    {
+      "name": "external",
+      "value": "外部入力"
+    },
+    {
+      "name": "external_control_activity",
+      "value": "External Control"
+    },
+    {
+      "name": "external_control_started",
+      "value": "Clash.Meta service started"
+    },
+    {
+      "name": "external_control_stopped",
+      "value": "Clash.Meta service stopped"
+    },
+    {
+      "name": "fakeip",
+      "value": "Fake-IPをドメインマッピング"
+    },
+    {
+      "name": "fakeip_filter",
+      "value": "Fake-IPフィルター"
+    },
+    {
+      "name": "fallback",
+      "value": "フォールバックネームサーバー"
+    },
+    {
+      "name": "feedback",
+      "value": "フィードバック"
+    },
+    {
+      "name": "file",
+      "value": "ファイル"
+    },
+    {
+      "name": "file_exported",
+      "value": "ファイルをエクスポートしました"
+    },
+    {
+      "name": "file_name",
+      "value": "ファイル名"
+    },
+    {
+      "name": "files",
+      "value": "ファイル"
+    },
+    {
+      "name": "filter",
+      "value": "フィルタ"
+    },
+    {
+      "name": "find_process_mode",
+      "value": "Find Process Mode"
+    },
+    {
+      "name": "follow_system_android_10",
+      "value": "システム (Android 10+)"
+    },
+    {
+      "name": "force_dns_mapping",
+      "value": "Force DNS Mapping"
+    },
+    {
+      "name": "force_domain",
+      "value": "Force Domain"
+    },
+    {
+      "name": "force_enable",
+      "value": "強制的に有効"
+    },
+    {
+      "name": "format_days_ago",
+      "value": "%d日前"
+    },
+    {
+      "name": "format_elements",
+      "value": "%dエントリー"
+    },
+    {
+      "name": "format_fetching_configuration",
+      "value": "%sのプロファイルをダウンロード中"
+    },
+    {
+      "name": "format_fetching_provider",
+      "value": "%s外部リソースをダウンロード中"
+    },
+    {
+      "name": "format_hours_ago",
+      "value": "%d時間前"
+    },
+    {
+      "name": "format_minutes",
+      "value": "%d分"
+    },
+    {
+      "name": "format_minutes_ago",
+      "value": "%d分前"
+    },
+    {
+      "name": "format_months_ago",
+      "value": "%dカ月前"
+    },
+    {
+      "name": "format_profile_activated",
+      "value": "%sがアクティベートされました"
+    },
+    {
+      "name": "format_provider_type",
+      "value": "%1$s(%2$s)"
+    },
+    {
+      "name": "format_traffic_forwarded",
+      "value": "%sが転送されました"
+    },
+    {
+      "name": "format_type_unsaved",
+      "value": "%s (未保存)"
+    },
+    {
+      "name": "format_update_provider_failure",
+      "value": "更新 %1$s: %2$s"
+    },
+    {
+      "name": "format_years_ago",
+      "value": "%d年前"
+    },
+    {
+      "name": "general",
+      "value": "一般"
+    },
+    {
+      "name": "geodata_mode",
+      "value": "Geodata Mode"
+    },
+    {
+      "name": "geofile_import_failed",
+      "value": "Import failed"
+    },
+    {
+      "name": "geofile_imported",
+      "value": "%1$s imported"
+    },
+    {
+      "name": "geofile_unknown_db_format",
+      "value": "Unknown Database format"
+    },
+    {
+      "name": "geofile_unknown_db_format_message",
+      "value": "Only %1$s are supported"
+    },
+    {
+      "name": "geoip_fallback",
+      "value": "GeoIPフォールバック"
+    },
+    {
+      "name": "geoip_fallback_code",
+      "value": "GeoIPフォールバックリージョンコード"
+    },
+    {
+      "name": "geox_files",
+      "value": "Geo Files"
+    },
+    {
+      "name": "geox_geoip",
+      "value": "GeoIP URL"
+    },
+    {
+      "name": "geox_geosite",
+      "value": "Geosite URL"
+    },
+    {
+      "name": "geox_mmdb",
+      "value": "MMDB URL"
+    },
+    {
+      "name": "geox_url_setting",
+      "value": "GeoX URL Setting"
+    },
+    {
+      "name": "github_issues",
+      "value": "Github Issues"
+    },
+    {
+      "name": "github_releases",
+      "value": "GitHub Releases"
+    },
+    {
+      "name": "global_mode",
+      "value": "グローバルモード"
+    },
+    {
+      "name": "google_play",
+      "value": "Google Play"
+    },
+    {
+      "name": "help",
+      "value": "ヘルプ"
+    },
+    {
+      "name": "history",
+      "value": "履歴"
+    },
+    {
+      "name": "hosts",
+      "value": "ホスト"
+    },
+    {
+      "name": "http",
+      "value": "HTTP"
+    },
+    {
+      "name": "http_port",
+      "value": "HTTPポート"
+    },
+    {
+      "name": "import_",
+      "value": "インポート"
+    },
+    {
+      "name": "import_country_file",
+      "value": "Import Country Database"
+    },
+    {
+      "name": "import_from_clipboard",
+      "value": "クリップボードからインポート"
+    },
+    {
+      "name": "import_from_file",
+      "value": "ファイルからインポート"
+    },
+    {
+      "name": "import_from_qr",
+      "value": "QRコードからインポート"
+    },
+    {
+      "name": "import_from_qr_exception",
+      "value": "システムで予期しない例外が発生しました。"
+    },
+    {
+      "name": "import_from_qr_no_permission",
+      "value": "カメラのアクセスが制限されています。設定から有効にしてください。"
+    },
+    {
+      "name": "import_from_url",
+      "value": "URLからインポート"
+    },
+    {
+      "name": "import_geoip_file",
+      "value": "Import GeoIP Database"
+    },
+    {
+      "name": "import_geosite_file",
+      "value": "Import GeoSite Database"
+    },
+    {
+      "name": "info",
+      "value": "情報"
+    },
+    {
+      "name": "initializing",
+      "value": "初期化中"
+    },
+    {
+      "name": "install_time",
+      "value": "インストール日時"
+    },
+    {
+      "name": "interface_",
+      "value": "インターフェイス"
+    },
+    {
+      "name": "invalid_file_name",
+      "value": "無効なファイル名"
+    },
+    {
+      "name": "invalid_log_file",
+      "value": "無効なログファイル"
+    },
+    {
+      "name": "invalid_url",
+      "value": "無効なURL"
+    },
+    {
+      "name": "ipcidr_fallback",
+      "value": "IPCIDRフォールバック"
+    },
+    {
+      "name": "ipv6",
+      "value": "IPv6"
+    },
+    {
+      "name": "key",
+      "value": "キー"
+    },
+    {
+      "name": "keyword",
+      "value": "キーワード"
+    },
+    {
+      "name": "layout",
+      "value": "レイアウト"
+    },
+    {
+      "name": "listen",
+      "value": "リッスン"
+    },
+    {
+      "name": "loading",
+      "value": "読み込み中"
+    },
+    {
+      "name": "log_level",
+      "value": "ログレベル"
+    },
+    {
+      "name": "logcat",
+      "value": "Logcat"
+    },
+    {
+      "name": "logs",
+      "value": "ログ"
+    },
+    {
+      "name": "mapping",
+      "value": "Real-IPをドメインマッピング"
+    },
+    {
+      "name": "meta_features",
+      "value": "Meta Features"
+    },
+    {
+      "name": "mixed_port",
+      "value": "複合ポート"
+    },
+    {
+      "name": "mode",
+      "value": "モード"
+    },
+    {
+      "name": "mode_switch_tips",
+      "value": "このセッションでのみ有効です"
+    },
+    {
+      "name": "more",
+      "value": "さらに表示"
+    },
+    {
+      "name": "multiple",
+      "value": "マルチカラム"
+    },
+    {
+      "name": "name",
+      "value": "名前"
+    },
+    {
+      "name": "name_server",
+      "value": "ネームサーバー"
+    },
+    {
+      "name": "name_server_policy",
+      "value": "ネームサーバーポリシー"
+    },
+    {
+      "name": "network",
+      "value": "ネットワーク"
+    },
+    {
+      "name": "new_profile",
+      "value": "新しいプロファイル"
+    },
+    {
+      "name": "no_profile_selected",
+      "value": "プロファイルが選択されていません"
+    },
+    {
+      "name": "not_selectable",
+      "value": "選択不可"
+    },
+    {
+      "name": "not_selected",
+      "value": "未選択"
+    },
+    {
+      "name": "off",
+      "value": "OFF"
+    },
+    {
+      "name": "ok",
+      "value": "確定"
+    },
+    {
+      "name": "options_unavailable",
+      "value": "Clash実行時にこのオプションは利用できません"
+    },
+    {
+      "name": "override",
+      "value": "オーバライド"
+    },
+    {
+      "name": "override_destination",
+      "value": "Override Destination"
+    },
+    {
+      "name": "package_name",
+      "value": "パッケージ名"
+    },
+    {
+      "name": "parse_pure_ip",
+      "value": "Parse Pure IP"
+    },
+    {
+      "name": "port_whitelist",
+      "value": "Port Whitelist"
+    },
+    {
+      "name": "prefer_h3",
+      "value": "Prefer h3"
+    },
+    {
+      "name": "press_to_import",
+      "value": "Press to import..."
+    },
+    {
+      "name": "profile",
+      "value": "プロファイル"
+    },
+    {
+      "name": "profile_name",
+      "value": "プロファイル名"
+    },
+    {
+      "name": "profile_url",
+      "value": "プロファイルURL"
+    },
+    {
+      "name": "profiles",
+      "value": "プロファイル"
+    },
+    {
+      "name": "properties",
+      "value": "プロパティ"
+    },
+    {
+      "name": "providers",
+      "value": "プロバイダー"
+    },
+    {
+      "name": "proxy",
+      "value": "プロキシ"
+    },
+    {
+      "name": "proxy_empty_tips",
+      "value": "表示するグループがありません"
+    },
+    {
+      "name": "qr_code_generation_failed",
+      "value": "このリンクのQRコードを生成できません。"
+    },
+    {
+      "name": "recently",
+      "value": "直近"
+    },
+    {
+      "name": "redirect_port",
+      "value": "リダイレクトポート"
+    },
+    {
+      "name": "reinstall",
+      "value": "再インストール"
+    },
+    {
+      "name": "rename",
+      "value": "名前の変更"
+    },
+    {
+      "name": "reset",
+      "value": "リセット"
+    },
+    {
+      "name": "reset_override_settings",
+      "value": "オーバライドの設定をリセット"
+    },
+    {
+      "name": "reset_override_settings_message",
+      "value": "すべてのオーバライド設定が消去されます"
+    },
+    {
+      "name": "reverse",
+      "value": "リバース"
+    },
+    {
+      "name": "route_system_traffic",
+      "value": "ルートシステムトラフィック"
+    },
+    {
+      "name": "routing_via_vpn_service",
+      "value": "全てのトラフィックをVPNサービス経由でルーティング"
+    },
+    {
+      "name": "rule",
+      "value": "ルール"
+    },
+    {
+      "name": "rule_mode",
+      "value": "ルールモード"
+    },
+    {
+      "name": "running",
+      "value": "実行中"
+    },
+    {
+      "name": "save",
+      "value": "保存"
+    },
+    {
+      "name": "search",
+      "value": "検索"
+    },
+    {
+      "name": "select_all",
+      "value": "すべてを選択"
+    },
+    {
+      "name": "select_invert",
+      "value": "選択を解除"
+    },
+    {
+      "name": "select_none",
+      "value": "クリア"
+    },
+    {
+      "name": "service",
+      "value": "サービス"
+    },
+    {
+      "name": "settings",
+      "value": "設定"
+    },
+    {
+      "name": "share_qr_code",
+      "value": "QRコードで共有"
+    },
+    {
+      "name": "should_not_be_blank",
+      "value": "空白にはできません"
+    },
+    {
+      "name": "show_traffic",
+      "value": "通信量を表示"
+    },
+    {
+      "name": "show_traffic_summary",
+      "value": "通知時に通信量を自動更新"
+    },
+    {
+      "name": "silent",
+      "value": "無効にする"
+    },
+    {
+      "name": "single",
+      "value": "シングルカラム"
+    },
+    {
+      "name": "skip_domain",
+      "value": "Skip Domain"
+    },
+    {
+      "name": "sniffer",
+      "value": "Sniffer"
+    },
+    {
+      "name": "sniffer_config",
+      "value": "Load Sniffer From Config"
+    },
+    {
+      "name": "sniffer_override",
+      "value": "Override Sniffer Config"
+    },
+    {
+      "name": "sniffer_setting",
+      "value": "Sniffer Setting"
+    },
+    {
+      "name": "sniffing",
+      "value": "Sniffer Mode"
+    },
+    {
+      "name": "socks_port",
+      "value": "SOCKSポート"
+    },
+    {
+      "name": "sort",
+      "value": "ソート"
+    },
+    {
+      "name": "sources",
+      "value": "ソース"
+    },
+    {
+      "name": "stopped",
+      "value": "停止中"
+    },
+    {
+      "name": "strategy",
+      "value": "ポリシー"
+    },
+    {
+      "name": "strict",
+      "value": "Strict"
+    },
+    {
+      "name": "system_apps",
+      "value": "システムアプリ"
+    },
+    {
+      "name": "system_proxy",
+      "value": "システムプロキシ"
+    },
+    {
+      "name": "system_proxy_summary",
+      "value": "VPNサービスにHTTPプロキシを追加"
+    },
+    {
+      "name": "tap_to_start",
+      "value": "タップしてスタート"
+    },
+    {
+      "name": "tcp_concurrent",
+      "value": "TCP Concurrent"
+    },
+    {
+      "name": "tips_help",
+      "value": "Clash Meta for Androidは<strong>無料アプリ</strong>です。当開発者は<strong>一切のプロキシサービスを提供していません。</strong> <strong>サービスに関する問い合わせはご遠慮ください。</strong>"
+    },
+    {
+      "name": "tips_properties",
+      "value": "<strong>Clashプロファイル</strong>のみご利用可能です(<strong>プロキシルール</strong>を含む)"
+    },
+    {
+      "name": "toast_profile_updated_complete",
+      "value": "Update profile %s completed"
+    },
+    {
+      "name": "toast_profile_updated_failed",
+      "value": "Update profile %1$s failed: %2$s"
+    },
+    {
+      "name": "tproxy_port",
+      "value": "TProxyポート"
+    },
+    {
+      "name": "unable_to_start_vpn",
+      "value": "VPNコンポーネントを起動できませんでした"
+    },
+    {
+      "name": "unavailable",
+      "value": "使用不可"
+    },
+    {
+      "name": "unified_delay",
+      "value": "Unified Delay"
+    },
+    {
+      "name": "update",
+      "value": "更新"
+    },
+    {
+      "name": "update_all",
+      "value": "すべて更新"
+    },
+    {
+      "name": "update_time",
+      "value": "更新日時"
+    },
+    {
+      "name": "url",
+      "value": "URL"
+    },
+    {
+      "name": "use_built_in",
+      "value": "ビルトイン"
+    },
+    {
+      "name": "use_hosts",
+      "value": "ホストを使う"
+    },
+    {
+      "name": "value",
+      "value": "値"
+    },
+    {
+      "name": "verifying",
+      "value": "チェック中"
+    },
+    {
+      "name": "version_updated",
+      "value": "アプリを更新しました"
+    },
+    {
+      "name": "version_updated_tips",
+      "value": "未設定のプロファイルは、再度保存する必要があります。"
+    },
+    {
+      "name": "vpn_service_options",
+      "value": "VPNサービスのオプション"
+    },
+    {
+      "name": "warning",
+      "value": "警告"
+    }
+  ]
+}

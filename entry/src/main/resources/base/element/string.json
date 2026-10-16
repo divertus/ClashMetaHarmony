@@ -1,0 +1,1268 @@
+{
+  "string": [
+    {
+      "name": "application_name",
+      "value": "ClashMeta"
+    },
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "_new",
+      "value": "New"
+    },
+    {
+      "name": "about",
+      "value": "About"
+    },
+    {
+      "name": "accept_http_content",
+      "value": "Accept only http(s)"
+    },
+    {
+      "name": "access_control_mode",
+      "value": "Access Control Mode"
+    },
+    {
+      "name": "access_control_packages",
+      "value": "Access Control Packages"
+    },
+    {
+      "name": "access_control_packages_summary",
+      "value": "Configure access permission for apps"
+    },
+    {
+      "name": "active_unsaved_tips",
+      "value": "Profile needs to be saved before activation"
+    },
+    {
+      "name": "age_key_category",
+      "value": "Age Key"
+    },
+    {
+      "name": "age_key_copy",
+      "value": "Copy"
+    },
+    {
+      "name": "age_key_generate",
+      "value": "Generate"
+    },
+    {
+      "name": "age_key_generate_summary",
+      "value": "Tap to generate"
+    },
+    {
+      "name": "age_key_helper",
+      "value": "Age Key"
+    },
+    {
+      "name": "age_key_to_public",
+      "value": "From Secret"
+    },
+    {
+      "name": "age_key_type_hybrid",
+      "value": "MLKEM768-X25519"
+    },
+    {
+      "name": "age_key_type_x25519",
+      "value": "X25519"
+    },
+    {
+      "name": "age_public_key",
+      "value": "Age Public Key"
+    },
+    {
+      "name": "age_public_key_error",
+      "value": "Invalid age public key"
+    },
+    {
+      "name": "age_secret_key",
+      "value": "Age Secret Key"
+    },
+    {
+      "name": "age_secret_key_error",
+      "value": "Invalid format. Key should start with AGE-SECRET-KEY-"
+    },
+    {
+      "name": "age_secret_key_hint",
+      "value": "AGE-SECRET-KEY-… (optional)"
+    },
+    {
+      "name": "allow_all_apps",
+      "value": "Allow all apps"
+    },
+    {
+      "name": "allow_bypass",
+      "value": "Allow Bypass"
+    },
+    {
+      "name": "allow_bypass_summary",
+      "value": "Allows all apps to bypass this VPN connection"
+    },
+    {
+      "name": "allow_clash_auto_restart",
+      "value": "Allow clash auto restart"
+    },
+    {
+      "name": "allow_ipv6",
+      "value": "Allow Ipv6"
+    },
+    {
+      "name": "allow_ipv6_summary",
+      "value": "Allows ipv6 traffic via VpnService"
+    },
+    {
+      "name": "allow_lan",
+      "value": "Allow LAN"
+    },
+    {
+      "name": "allow_origins",
+      "value": "External Controller Allow Origins"
+    },
+    {
+      "name": "allow_private_network",
+      "value": "External Controller Allow Private Network"
+    },
+    {
+      "name": "allow_selected_apps",
+      "value": "Allow selected apps"
+    },
+    {
+      "name": "always",
+      "value": "Always"
+    },
+    {
+      "name": "always_dark",
+      "value": "Always Dark"
+    },
+    {
+      "name": "always_light",
+      "value": "Always Light"
+    },
+    {
+      "name": "app",
+      "value": "App"
+    },
+    {
+      "name": "append_system_dns",
+      "value": "Append System DNS"
+    },
+    {
+      "name": "application_broken",
+      "value": "Application Broken"
+    },
+    {
+      "name": "application_broken_tips",
+      "value": "App lacks the necessary runtime components, which is usually caused by downloading an incomplete apk."
+    },
+    {
+      "name": "application_crashed",
+      "value": "Application Crashed"
+    },
+    {
+      "name": "application_name_alpha",
+      "value": "Clash Meta for Android Alpha"
+    },
+    {
+      "name": "application_name_meta",
+      "value": "Clash Meta for Android"
+    },
+    {
+      "name": "at_least_15_minutes",
+      "value": "At least 15 minutes or empty"
+    },
+    {
+      "name": "authentication",
+      "value": "Authentication"
+    },
+    {
+      "name": "auto_restart",
+      "value": "Auto Restart"
+    },
+    {
+      "name": "auto_update",
+      "value": "Auto Update"
+    },
+    {
+      "name": "auto_update_minutes",
+      "value": "Auto Update (Minutes)"
+    },
+    {
+      "name": "behavior",
+      "value": "Behavior"
+    },
+    {
+      "name": "bind_address",
+      "value": "Bind Address"
+    },
+    {
+      "name": "blacklist",
+      "value": "Black List"
+    },
+    {
+      "name": "block_loopback",
+      "value": "Block Loopback"
+    },
+    {
+      "name": "block_loopback_summary",
+      "value": "Block loopback connections"
+    },
+    {
+      "name": "browse_configuration_providers",
+      "value": "Browse configuration & providers"
+    },
+    {
+      "name": "browse_files",
+      "value": "Browse Files"
+    },
+    {
+      "name": "bypass_private_network",
+      "value": "Bypass Private Network"
+    },
+    {
+      "name": "bypass_private_network_summary",
+      "value": "Bypass private network addresses"
+    },
+    {
+      "name": "cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "clash_logcat",
+      "value": "Clash Logcat"
+    },
+    {
+      "name": "clash_meta_core",
+      "value": "Clash Meta Core"
+    },
+    {
+      "name": "clash_meta_core_url",
+      "value": "https://github.com/MetaCubeX/Clash.Meta"
+    },
+    {
+      "name": "clash_meta_for_android",
+      "value": "Clash Meta for Android"
+    },
+    {
+      "name": "clash_meta_wiki",
+      "value": "Clash Meta Wiki"
+    },
+    {
+      "name": "clash_meta_wiki_url",
+      "value": "https://wiki.metacubex.one"
+    },
+    {
+      "name": "clash_wiki",
+      "value": "Clash Wiki"
+    },
+    {
+      "name": "clash_wiki_url",
+      "value": "https://github.com/Dreamacro/clash/wiki"
+    },
+    {
+      "name": "close",
+      "value": "Close"
+    },
+    {
+      "name": "compatible",
+      "value": "Compatible"
+    },
+    {
+      "name": "copied",
+      "value": "Copied"
+    },
+    {
+      "name": "create_profile",
+      "value": "Create Profile"
+    },
+    {
+      "name": "dark_mode",
+      "value": "Dark Mode"
+    },
+    {
+      "name": "debug",
+      "value": "Debug"
+    },
+    {
+      "name": "default_",
+      "value": "Default"
+    },
+    {
+      "name": "default_name_server",
+      "value": "Default Name Server"
+    },
+    {
+      "name": "delay",
+      "value": "Delay"
+    },
+    {
+      "name": "delay_test",
+      "value": "Delay Test"
+    },
+    {
+      "name": "delete",
+      "value": "Delete"
+    },
+    {
+      "name": "delete_all_logs",
+      "value": "Delete All Logs"
+    },
+    {
+      "name": "delete_all_logs_warn",
+      "value": "All historical logs will *LOST*"
+    },
+    {
+      "name": "deny_selected_apps",
+      "value": "Deny selected apps"
+    },
+    {
+      "name": "detail",
+      "value": "Detail"
+    },
+    {
+      "name": "direct_mode",
+      "value": "Direct Mode"
+    },
+    {
+      "name": "disabled",
+      "value": "Disabled"
+    },
+    {
+      "name": "dns",
+      "value": "DNS"
+    },
+    {
+      "name": "dns_hijacking",
+      "value": "DNS Hijacking"
+    },
+    {
+      "name": "dns_hijacking_summary",
+      "value": "Handle all dns packet"
+    },
+    {
+      "name": "document",
+      "value": "Document"
+    },
+    {
+      "name": "domain_fallback",
+      "value": "Domain Fallback"
+    },
+    {
+      "name": "donate",
+      "value": "Donate"
+    },
+    {
+      "name": "dont_modify",
+      "value": "Do not modify"
+    },
+    {
+      "name": "doubles",
+      "value": "Double"
+    },
+    {
+      "name": "duplicate",
+      "value": "Duplicate"
+    },
+    {
+      "name": "edit",
+      "value": "Edit"
+    },
+    {
+      "name": "empty",
+      "value": "Empty"
+    },
+    {
+      "name": "empty_name",
+      "value": "Empty Name"
+    },
+    {
+      "name": "enabled",
+      "value": "Enabled"
+    },
+    {
+      "name": "enhanced_mode",
+      "value": "Enhanced Mode"
+    },
+    {
+      "name": "error",
+      "value": "Error"
+    },
+    {
+      "name": "exit_without_save",
+      "value": "Exit without Save"
+    },
+    {
+      "name": "exit_without_save_warning",
+      "value": "All changed will *LOST*"
+    },
+    {
+      "name": "export",
+      "value": "Export"
+    },
+    {
+      "name": "export_to_clipboard",
+      "value": "Export to Clipboard"
+    },
+    {
+      "name": "external",
+      "value": "External"
+    },
+    {
+      "name": "external_control_activity",
+      "value": "External Control"
+    },
+    {
+      "name": "external_control_started",
+      "value": "Clash.Meta service started"
+    },
+    {
+      "name": "external_control_stopped",
+      "value": "Clash.Meta service stopped"
+    },
+    {
+      "name": "external_controller",
+      "value": "External Controller"
+    },
+    {
+      "name": "external_controller_tls",
+      "value": "External Controller TLS"
+    },
+    {
+      "name": "fakeip",
+      "value": "Fake-IP to domain mapping"
+    },
+    {
+      "name": "fakeip_filter",
+      "value": "Fake-IP Filter"
+    },
+    {
+      "name": "fakeip_filter_mode",
+      "value": "Fake-IP Filter Mode"
+    },
+    {
+      "name": "fallback",
+      "value": "Fallback Name Server"
+    },
+    {
+      "name": "feedback",
+      "value": "Feedback"
+    },
+    {
+      "name": "file",
+      "value": "File"
+    },
+    {
+      "name": "file_exported",
+      "value": "File Exported"
+    },
+    {
+      "name": "file_name",
+      "value": "File Name"
+    },
+    {
+      "name": "files",
+      "value": "Files"
+    },
+    {
+      "name": "filter",
+      "value": "Filter"
+    },
+    {
+      "name": "find_process_mode",
+      "value": "Find Process Mode"
+    },
+    {
+      "name": "follow_system_android_10",
+      "value": "Follow System (Android 10+)"
+    },
+    {
+      "name": "force_dns_mapping",
+      "value": "Force DNS Mapping"
+    },
+    {
+      "name": "force_domain",
+      "value": "Force Domain"
+    },
+    {
+      "name": "force_enable",
+      "value": "Force Enable"
+    },
+    {
+      "name": "format_days_ago",
+      "value": "%d days ago"
+    },
+    {
+      "name": "format_elements",
+      "value": "%d elements"
+    },
+    {
+      "name": "format_fetching_configuration",
+      "value": "Fetching configuration from '%s'"
+    },
+    {
+      "name": "format_fetching_provider",
+      "value": "Fetching provider '%s'"
+    },
+    {
+      "name": "format_hours_ago",
+      "value": "%d hours ago"
+    },
+    {
+      "name": "format_minutes",
+      "value": "%d min"
+    },
+    {
+      "name": "format_minutes_ago",
+      "value": "%d min ago"
+    },
+    {
+      "name": "format_months_ago",
+      "value": "%d months ago"
+    },
+    {
+      "name": "format_profile_activated",
+      "value": "%s Activated"
+    },
+    {
+      "name": "format_provider_type",
+      "value": "%1$s(%2$s)"
+    },
+    {
+      "name": "format_traffic_forwarded",
+      "value": "%s Forwarded"
+    },
+    {
+      "name": "format_type_unsaved",
+      "value": "%s (Unsaved)"
+    },
+    {
+      "name": "format_update_provider_failure",
+      "value": "Update %1$s: %2$s"
+    },
+    {
+      "name": "format_years_ago",
+      "value": "%d years ago"
+    },
+    {
+      "name": "general",
+      "value": "General"
+    },
+    {
+      "name": "geodata_mode",
+      "value": "Geodata Mode"
+    },
+    {
+      "name": "geofile_import_failed",
+      "value": "Import failed"
+    },
+    {
+      "name": "geofile_imported",
+      "value": "%1$s imported"
+    },
+    {
+      "name": "geofile_unknown_db_format",
+      "value": "Unknown Database format"
+    },
+    {
+      "name": "geofile_unknown_db_format_message",
+      "value": "Only %1$s are supported"
+    },
+    {
+      "name": "geoip_fallback",
+      "value": "GeoIP Fallback"
+    },
+    {
+      "name": "geoip_fallback_code",
+      "value": "GeoIP Fallback Code"
+    },
+    {
+      "name": "geoip_url",
+      "value": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/release/geoip.dat"
+    },
+    {
+      "name": "geosite_url",
+      "value": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/release/geosite.dat"
+    },
+    {
+      "name": "geox_files",
+      "value": "Geo Files"
+    },
+    {
+      "name": "geox_geoip",
+      "value": "GeoIp Url"
+    },
+    {
+      "name": "geox_geosite",
+      "value": "Geosite Url"
+    },
+    {
+      "name": "geox_mmdb",
+      "value": "MMDB Url"
+    },
+    {
+      "name": "geox_url_setting",
+      "value": "GeoX Url Setting"
+    },
+    {
+      "name": "github_issues",
+      "value": "Github Issues"
+    },
+    {
+      "name": "github_releases",
+      "value": "Github Releases"
+    },
+    {
+      "name": "global_mode",
+      "value": "Global Mode"
+    },
+    {
+      "name": "google_play",
+      "value": "Google Play"
+    },
+    {
+      "name": "google_play_url",
+      "value": "https://play.google.com/store/apps/details?id=com.github.kr328.clash"
+    },
+    {
+      "name": "help",
+      "value": "Help"
+    },
+    {
+      "name": "hide_app_icon_desc",
+      "value": "You can dial *#*#252746382#*#* to open this App"
+    },
+    {
+      "name": "hide_app_icon_title",
+      "value": "Hide App Icon"
+    },
+    {
+      "name": "hide_from_recents_desc",
+      "value": "Hide app from the Recent apps screen"
+    },
+    {
+      "name": "hide_from_recents_title",
+      "value": "Hide from Recents"
+    },
+    {
+      "name": "history",
+      "value": "History"
+    },
+    {
+      "name": "hosts",
+      "value": "Hosts"
+    },
+    {
+      "name": "http",
+      "value": "HTTP"
+    },
+    {
+      "name": "http_port",
+      "value": "HTTP Port"
+    },
+    {
+      "name": "import_",
+      "value": "Import"
+    },
+    {
+      "name": "import_asn_file",
+      "value": "Import ASN Database"
+    },
+    {
+      "name": "import_country_file",
+      "value": "Import Country Database"
+    },
+    {
+      "name": "import_from_clipboard",
+      "value": "Import from Clipboard"
+    },
+    {
+      "name": "import_from_file",
+      "value": "Import from File"
+    },
+    {
+      "name": "import_from_qr",
+      "value": "Import from QR Code"
+    },
+    {
+      "name": "import_from_qr_exception",
+      "value": "An unhandled system exception occurred."
+    },
+    {
+      "name": "import_from_qr_no_permission",
+      "value": "Camera access is restricted. Please enable it in Settings."
+    },
+    {
+      "name": "import_from_url",
+      "value": "Import from URL"
+    },
+    {
+      "name": "import_geoip_file",
+      "value": "Import GeoIP Database"
+    },
+    {
+      "name": "import_geosite_file",
+      "value": "Import GeoSite Database"
+    },
+    {
+      "name": "info",
+      "value": "Info"
+    },
+    {
+      "name": "initializing",
+      "value": "Initializing"
+    },
+    {
+      "name": "inline",
+      "value": "Inline"
+    },
+    {
+      "name": "install_time",
+      "value": "Install Time"
+    },
+    {
+      "name": "interface_",
+      "value": "Interface"
+    },
+    {
+      "name": "invalid_file_name",
+      "value": "Invalid file name"
+    },
+    {
+      "name": "invalid_log_file",
+      "value": "Invalid log file"
+    },
+    {
+      "name": "invalid_url",
+      "value": "Invalid URL"
+    },
+    {
+      "name": "ipcidr_fallback",
+      "value": "IPCIDR Fallback"
+    },
+    {
+      "name": "ipv6",
+      "value": "IPv6"
+    },
+    {
+      "name": "key",
+      "value": "Key"
+    },
+    {
+      "name": "keyword",
+      "value": "Keyword"
+    },
+    {
+      "name": "launch_name_alpha",
+      "value": "Clash Meta Alpha"
+    },
+    {
+      "name": "launch_name_meta",
+      "value": "Clash Meta"
+    },
+    {
+      "name": "layout",
+      "value": "Layout"
+    },
+    {
+      "name": "listen",
+      "value": "Listen"
+    },
+    {
+      "name": "loading",
+      "value": "Loading"
+    },
+    {
+      "name": "log_level",
+      "value": "Log Level"
+    },
+    {
+      "name": "logcat",
+      "value": "Logcat"
+    },
+    {
+      "name": "logs",
+      "value": "Logs"
+    },
+    {
+      "name": "mapping",
+      "value": "Real-IP to domain mapping"
+    },
+    {
+      "name": "meta_features",
+      "value": "Meta Features"
+    },
+    {
+      "name": "meta_github_url",
+      "value": "https://github.com/MetaCubeX/ClashMetaForAndroid"
+    },
+    {
+      "name": "mixed_port",
+      "value": "Mixed Port"
+    },
+    {
+      "name": "mmdb_url",
+      "value": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/release/country.mmdb"
+    },
+    {
+      "name": "mode",
+      "value": "Mode"
+    },
+    {
+      "name": "mode_switch_tips",
+      "value": "Valid only for current session"
+    },
+    {
+      "name": "more",
+      "value": "More"
+    },
+    {
+      "name": "multiple",
+      "value": "Multiple"
+    },
+    {
+      "name": "name",
+      "value": "Name"
+    },
+    {
+      "name": "name_server",
+      "value": "Name Server"
+    },
+    {
+      "name": "name_server_policy",
+      "value": "Name Server Policy"
+    },
+    {
+      "name": "network",
+      "value": "Network"
+    },
+    {
+      "name": "new_profile",
+      "value": "New Profile"
+    },
+    {
+      "name": "no_profile_selected",
+      "value": "No profile selected"
+    },
+    {
+      "name": "not_selectable",
+      "value": "Not Selectable"
+    },
+    {
+      "name": "not_selected",
+      "value": "Not selected"
+    },
+    {
+      "name": "off",
+      "value": "OFF"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "options_unavailable",
+      "value": "Options Unavailable until Clash Stopped"
+    },
+    {
+      "name": "override",
+      "value": "Override"
+    },
+    {
+      "name": "override_destination",
+      "value": "Override Destination"
+    },
+    {
+      "name": "package_name",
+      "value": "Package Name"
+    },
+    {
+      "name": "parse_pure_ip",
+      "value": "Parse Pure IP"
+    },
+    {
+      "name": "prefer_h3",
+      "value": "Prefer h3"
+    },
+    {
+      "name": "press_to_import",
+      "value": "Press to import..."
+    },
+    {
+      "name": "profile",
+      "value": "Profile"
+    },
+    {
+      "name": "profile_name",
+      "value": "Profile Name"
+    },
+    {
+      "name": "profile_url",
+      "value": "Profile URL"
+    },
+    {
+      "name": "profiles",
+      "value": "Profiles"
+    },
+    {
+      "name": "properties",
+      "value": "Properties"
+    },
+    {
+      "name": "providers",
+      "value": "Providers"
+    },
+    {
+      "name": "proxy",
+      "value": "Proxy"
+    },
+    {
+      "name": "proxy_empty_tips",
+      "value": "No groups can be displayed"
+    },
+    {
+      "name": "qr",
+      "value": "QR Code"
+    },
+    {
+      "name": "qr_code_generation_failed",
+      "value": "Unable to generate a QR code for this link."
+    },
+    {
+      "name": "raw_cn",
+      "value": "cn"
+    },
+    {
+      "name": "recently",
+      "value": "Recently"
+    },
+    {
+      "name": "redirect_port",
+      "value": "Redirect Port"
+    },
+    {
+      "name": "reinstall",
+      "value": "Reinstall"
+    },
+    {
+      "name": "rename",
+      "value": "Rename"
+    },
+    {
+      "name": "reset",
+      "value": "Reset"
+    },
+    {
+      "name": "reset_override_settings",
+      "value": "Reset Override Settings"
+    },
+    {
+      "name": "reset_override_settings_message",
+      "value": "All override settings will be discarded"
+    },
+    {
+      "name": "reverse",
+      "value": "Reverse"
+    },
+    {
+      "name": "route_system_traffic",
+      "value": "Route System Traffic"
+    },
+    {
+      "name": "routing_via_vpn_service",
+      "value": "Auto routing all system traffic via VpnService"
+    },
+    {
+      "name": "rule",
+      "value": "Rule"
+    },
+    {
+      "name": "rule_mode",
+      "value": "Rule Mode"
+    },
+    {
+      "name": "running",
+      "value": "Running"
+    },
+    {
+      "name": "save",
+      "value": "Save"
+    },
+    {
+      "name": "search",
+      "value": "Search"
+    },
+    {
+      "name": "secret",
+      "value": "Secret"
+    },
+    {
+      "name": "select_all",
+      "value": "Select All"
+    },
+    {
+      "name": "select_invert",
+      "value": "Select Invert"
+    },
+    {
+      "name": "select_none",
+      "value": "Select None"
+    },
+    {
+      "name": "service",
+      "value": "Service"
+    },
+    {
+      "name": "settings",
+      "value": "Settings"
+    },
+    {
+      "name": "share_qr_code",
+      "value": "Share QR code"
+    },
+    {
+      "name": "shortcut_start_long",
+      "value": "Start Clash service"
+    },
+    {
+      "name": "shortcut_start_short",
+      "value": "Start Clash"
+    },
+    {
+      "name": "shortcut_stop_long",
+      "value": "Stop Clash service"
+    },
+    {
+      "name": "shortcut_stop_short",
+      "value": "Stop Clash"
+    },
+    {
+      "name": "shortcut_toggle_long",
+      "value": "Toggle Clash service on/off"
+    },
+    {
+      "name": "shortcut_toggle_short",
+      "value": "Toggle Clash"
+    },
+    {
+      "name": "should_not_be_blank",
+      "value": "Should not be blank"
+    },
+    {
+      "name": "show_traffic",
+      "value": "Show Traffic"
+    },
+    {
+      "name": "show_traffic_summary",
+      "value": "Auto refresh traffic in notification"
+    },
+    {
+      "name": "silent",
+      "value": "Silent"
+    },
+    {
+      "name": "single",
+      "value": "Single"
+    },
+    {
+      "name": "skip_domain",
+      "value": "Skip Domain"
+    },
+    {
+      "name": "skip_dst_address",
+      "value": "Skip Dst Address"
+    },
+    {
+      "name": "skip_src_address",
+      "value": "Skip Src Address"
+    },
+    {
+      "name": "sniff_http_override_destination",
+      "value": "Sniff HTTP Override Destination"
+    },
+    {
+      "name": "sniff_http_ports",
+      "value": "Sniff HTTP Ports"
+    },
+    {
+      "name": "sniff_quic_override_destination",
+      "value": "Sniff QUIC Override Destination"
+    },
+    {
+      "name": "sniff_quic_ports",
+      "value": "Sniff QUIC Ports"
+    },
+    {
+      "name": "sniff_tls_override_destination",
+      "value": "Sniff TLS Override Destination"
+    },
+    {
+      "name": "sniff_tls_ports",
+      "value": "Sniff TLS Ports"
+    },
+    {
+      "name": "sniffer",
+      "value": "Sniffer"
+    },
+    {
+      "name": "sniffer_setting",
+      "value": "Sniffer Setting"
+    },
+    {
+      "name": "socks_port",
+      "value": "Socks Port"
+    },
+    {
+      "name": "sort",
+      "value": "Sort"
+    },
+    {
+      "name": "sources",
+      "value": "Sources"
+    },
+    {
+      "name": "stopped",
+      "value": "Stopped"
+    },
+    {
+      "name": "strategy",
+      "value": "Strategy"
+    },
+    {
+      "name": "strict",
+      "value": "Strict"
+    },
+    {
+      "name": "system_apps",
+      "value": "System Apps"
+    },
+    {
+      "name": "system_proxy",
+      "value": "System Proxy"
+    },
+    {
+      "name": "system_proxy_summary",
+      "value": "Attach http proxy to VpnService"
+    },
+    {
+      "name": "tap_to_start",
+      "value": "Tap to start"
+    },
+    {
+      "name": "tcp_concurrent",
+      "value": "TCP Concurrent"
+    },
+    {
+      "name": "tips_help",
+      "value": "Clash Meta for Android is a <strong>freeware</strong> and we do <strong>NOT</strong> provide any service for it"
+    },
+    {
+      "name": "tips_properties",
+      "value": "Accept Only <strong>Clash Config</strong>(including <strong>Proxy</strong>/<strong>Rules</strong>)"
+    },
+    {
+      "name": "toast_profile_updated_complete",
+      "value": "Update profile %s completed"
+    },
+    {
+      "name": "toast_profile_updated_failed",
+      "value": "Update profile %1$s failed: %2$s"
+    },
+    {
+      "name": "tproxy_port",
+      "value": "TProxy Port"
+    },
+    {
+      "name": "tun_stack_gvisor",
+      "value": "Gvisor Stack"
+    },
+    {
+      "name": "tun_stack_mips",
+      "value": "Mips Stack"
+    },
+    {
+      "name": "tun_stack_mixed",
+      "value": "Mixed Stack"
+    },
+    {
+      "name": "tun_stack_mode",
+      "value": "Stack Mode"
+    },
+    {
+      "name": "tun_stack_system",
+      "value": "System Stack"
+    },
+    {
+      "name": "unable_to_start_vpn",
+      "value": "Unable to start VPN component"
+    },
+    {
+      "name": "unavailable",
+      "value": "Unavailable"
+    },
+    {
+      "name": "unified_delay",
+      "value": "Unified Delay"
+    },
+    {
+      "name": "update",
+      "value": "Update"
+    },
+    {
+      "name": "update_all",
+      "value": "Update All"
+    },
+    {
+      "name": "update_time",
+      "value": "Update Time"
+    },
+    {
+      "name": "url",
+      "value": "URL"
+    },
+    {
+      "name": "use_built_in",
+      "value": "Use Built-in"
+    },
+    {
+      "name": "use_hosts",
+      "value": "Use Hosts"
+    },
+    {
+      "name": "value",
+      "value": "Value"
+    },
+    {
+      "name": "verifying",
+      "value": "Verifying"
+    },
+    {
+      "name": "version_updated",
+      "value": "App Updated"
+    },
+    {
+      "name": "version_updated_tips",
+      "value": "The settings have been reseted and the old profiles needs to be saved again."
+    },
+    {
+      "name": "vpn_service_options",
+      "value": "VpnService Options"
+    },
+    {
+      "name": "warning",
+      "value": "Warning"
+    },
+    {
+      "name": "whitelist",
+      "value": "White List"
+    }
+  ]
+}

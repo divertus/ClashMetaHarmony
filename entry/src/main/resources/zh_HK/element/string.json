@@ -1,0 +1,1056 @@
+{
+  "string": [
+    {
+      "name": "_new",
+      "value": "新建"
+    },
+    {
+      "name": "about",
+      "value": "關於"
+    },
+    {
+      "name": "accept_http_content",
+      "value": "僅接受 http(s) 和 content 類型"
+    },
+    {
+      "name": "access_control_mode",
+      "value": "訪問控制模式"
+    },
+    {
+      "name": "access_control_packages",
+      "value": "訪問控制應用包列表"
+    },
+    {
+      "name": "access_control_packages_summary",
+      "value": "為應用配置訪問權限"
+    },
+    {
+      "name": "active_unsaved_tips",
+      "value": "配置文件需要在激活之前保存"
+    },
+    {
+      "name": "age_key_category",
+      "value": "Age 金鑰"
+    },
+    {
+      "name": "age_key_copy",
+      "value": "複製"
+    },
+    {
+      "name": "age_key_generate",
+      "value": "產生"
+    },
+    {
+      "name": "age_key_generate_summary",
+      "value": "點按產生"
+    },
+    {
+      "name": "age_key_helper",
+      "value": "Age 金鑰"
+    },
+    {
+      "name": "age_key_to_public",
+      "value": "從私鑰取得"
+    },
+    {
+      "name": "age_public_key",
+      "value": "Age 公開金鑰"
+    },
+    {
+      "name": "age_public_key_error",
+      "value": "無效的 Age 公開金鑰"
+    },
+    {
+      "name": "age_secret_key",
+      "value": "Age 私鑰"
+    },
+    {
+      "name": "age_secret_key_error",
+      "value": "無效格式。密鑰應以 AGE-SECRET-KEY- 開頭"
+    },
+    {
+      "name": "age_secret_key_hint",
+      "value": "AGE-SECRET-KEY-…（可選）"
+    },
+    {
+      "name": "allow_all_apps",
+      "value": "允許所有應用"
+    },
+    {
+      "name": "allow_clash_auto_restart",
+      "value": "允許 Clash 自動重啓"
+    },
+    {
+      "name": "allow_lan",
+      "value": "允許來自局域網的連接"
+    },
+    {
+      "name": "allow_selected_apps",
+      "value": "僅允許已選擇的應用"
+    },
+    {
+      "name": "always",
+      "value": "強制開啟"
+    },
+    {
+      "name": "always_dark",
+      "value": "總是暗黑模式"
+    },
+    {
+      "name": "always_light",
+      "value": "總是明亮模式"
+    },
+    {
+      "name": "app",
+      "value": "應用"
+    },
+    {
+      "name": "append_system_dns",
+      "value": "追加系統 DNS"
+    },
+    {
+      "name": "application_broken",
+      "value": "應用損壞"
+    },
+    {
+      "name": "application_broken_tips",
+      "value": "應用缺少必要的運行組件，這通常由於下載不完整的 apk 導致。"
+    },
+    {
+      "name": "application_crashed",
+      "value": "應用崩潰"
+    },
+    {
+      "name": "at_least_15_minutes",
+      "value": "至少 15 分鐘"
+    },
+    {
+      "name": "authentication",
+      "value": "認證"
+    },
+    {
+      "name": "auto_restart",
+      "value": "自動重啓"
+    },
+    {
+      "name": "auto_update",
+      "value": "自動更新"
+    },
+    {
+      "name": "auto_update_minutes",
+      "value": "自動更新 (分鐘)"
+    },
+    {
+      "name": "behavior",
+      "value": "行為"
+    },
+    {
+      "name": "bind_address",
+      "value": "監聽地址"
+    },
+    {
+      "name": "block_loopback",
+      "value": "阻止本地迴環"
+    },
+    {
+      "name": "block_loopback_summary",
+      "value": "阻止本地迴環連接"
+    },
+    {
+      "name": "browse_configuration_providers",
+      "value": "瀏覽配置文件和外部資源"
+    },
+    {
+      "name": "browse_files",
+      "value": "瀏覽文件"
+    },
+    {
+      "name": "bypass_private_network",
+      "value": "繞過私有網絡"
+    },
+    {
+      "name": "bypass_private_network_summary",
+      "value": "繞過私有網絡地址"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "clash_logcat",
+      "value": "Clash 日誌捕捉工具"
+    },
+    {
+      "name": "clash_meta_core",
+      "value": "Clash Meta 核心"
+    },
+    {
+      "name": "clash_meta_for_android",
+      "value": "Clash Meta for Android"
+    },
+    {
+      "name": "clash_meta_wiki",
+      "value": "Clash Meta Wiki"
+    },
+    {
+      "name": "clash_wiki",
+      "value": "Clash Wiki"
+    },
+    {
+      "name": "close",
+      "value": "關閉"
+    },
+    {
+      "name": "compatible",
+      "value": "兼容"
+    },
+    {
+      "name": "copied",
+      "value": "已複製"
+    },
+    {
+      "name": "create_profile",
+      "value": "創建配置"
+    },
+    {
+      "name": "dark_mode",
+      "value": "暗黑模式"
+    },
+    {
+      "name": "debug",
+      "value": "調試"
+    },
+    {
+      "name": "default_",
+      "value": "默認"
+    },
+    {
+      "name": "default_name_server",
+      "value": "Default Name Server"
+    },
+    {
+      "name": "delay",
+      "value": "延遲"
+    },
+    {
+      "name": "delay_test",
+      "value": "延遲測試"
+    },
+    {
+      "name": "delete",
+      "value": "刪除"
+    },
+    {
+      "name": "delete_all_logs",
+      "value": "刪除所有日誌"
+    },
+    {
+      "name": "delete_all_logs_warn",
+      "value": "所有歷史日誌將丟失"
+    },
+    {
+      "name": "deny_selected_apps",
+      "value": "不允許已選擇的應用"
+    },
+    {
+      "name": "detail",
+      "value": "詳情"
+    },
+    {
+      "name": "direct_mode",
+      "value": "直連模式"
+    },
+    {
+      "name": "disable_sniffer",
+      "value": "Disable Sniffer"
+    },
+    {
+      "name": "disabled",
+      "value": "已禁用"
+    },
+    {
+      "name": "dns",
+      "value": "DNS"
+    },
+    {
+      "name": "dns_hijacking",
+      "value": "DNS 劫持"
+    },
+    {
+      "name": "dns_hijacking_summary",
+      "value": "處理所有 DNS 數據包"
+    },
+    {
+      "name": "document",
+      "value": "文檔"
+    },
+    {
+      "name": "domain_fallback",
+      "value": "域名 Fallback"
+    },
+    {
+      "name": "donate",
+      "value": "捐贈"
+    },
+    {
+      "name": "dont_modify",
+      "value": "不修改"
+    },
+    {
+      "name": "doubles",
+      "value": "雙列"
+    },
+    {
+      "name": "duplicate",
+      "value": "複製"
+    },
+    {
+      "name": "edit",
+      "value": "編輯"
+    },
+    {
+      "name": "empty",
+      "value": "置空"
+    },
+    {
+      "name": "empty_name",
+      "value": "空名稱"
+    },
+    {
+      "name": "enabled",
+      "value": "已啓用"
+    },
+    {
+      "name": "enhanced_mode",
+      "value": "增強模式"
+    },
+    {
+      "name": "error",
+      "value": "錯誤"
+    },
+    {
+      "name": "exit_without_save",
+      "value": "退出而不保存"
+    },
+    {
+      "name": "exit_without_save_warning",
+      "value": "所有變更將會丟失"
+    },
+    {
+      "name": "export",
+      "value": "導出"
+    },
+    {
+      "name": "export_to_clipboard",
+      "value": "導出至剪切板"
+    },
+    {
+      "name": "external",
+      "value": "外部"
+    },
+    {
+      "name": "external_control_activity",
+      "value": "External Control"
+    },
+    {
+      "name": "external_control_started",
+      "value": "Clash.Meta service started"
+    },
+    {
+      "name": "external_control_stopped",
+      "value": "Clash.Meta service stopped"
+    },
+    {
+      "name": "fakeip",
+      "value": "Fake-IP 至 域名映射"
+    },
+    {
+      "name": "fakeip_filter",
+      "value": "FakeIP 過濾器"
+    },
+    {
+      "name": "fallback",
+      "value": "Fallback Name Server"
+    },
+    {
+      "name": "feedback",
+      "value": "反饋"
+    },
+    {
+      "name": "file",
+      "value": "文件"
+    },
+    {
+      "name": "file_exported",
+      "value": "文件已導出"
+    },
+    {
+      "name": "file_name",
+      "value": "文件名"
+    },
+    {
+      "name": "files",
+      "value": "文件"
+    },
+    {
+      "name": "filter",
+      "value": "過濾"
+    },
+    {
+      "name": "find_process_mode",
+      "value": "Find Process Mode"
+    },
+    {
+      "name": "follow_system_android_10",
+      "value": "跟隨系統 (Android 10+)"
+    },
+    {
+      "name": "force_dns_mapping",
+      "value": "Force DNS Mapping"
+    },
+    {
+      "name": "force_domain",
+      "value": "Force Domain"
+    },
+    {
+      "name": "force_enable",
+      "value": "強制啓用"
+    },
+    {
+      "name": "format_days_ago",
+      "value": "%d 天前"
+    },
+    {
+      "name": "format_elements",
+      "value": "%d 個條目"
+    },
+    {
+      "name": "format_fetching_configuration",
+      "value": "正在從 %s 下載配置文件"
+    },
+    {
+      "name": "format_fetching_provider",
+      "value": "正在下載外部資源 %s"
+    },
+    {
+      "name": "format_hours_ago",
+      "value": "%d 小時前"
+    },
+    {
+      "name": "format_minutes",
+      "value": "%d 分鐘"
+    },
+    {
+      "name": "format_minutes_ago",
+      "value": "%d 分鐘前"
+    },
+    {
+      "name": "format_months_ago",
+      "value": "%d 月前"
+    },
+    {
+      "name": "format_profile_activated",
+      "value": "%s 已激活"
+    },
+    {
+      "name": "format_provider_type",
+      "value": "%1$s(%2$s)"
+    },
+    {
+      "name": "format_traffic_forwarded",
+      "value": "%s 已轉發"
+    },
+    {
+      "name": "format_type_unsaved",
+      "value": "%s (未保存)"
+    },
+    {
+      "name": "format_update_provider_failure",
+      "value": "更新 %1$s: %2$s"
+    },
+    {
+      "name": "format_years_ago",
+      "value": "%d 年前"
+    },
+    {
+      "name": "general",
+      "value": "常規"
+    },
+    {
+      "name": "geodata_mode",
+      "value": "Geodata Mode"
+    },
+    {
+      "name": "geofile_import_failed",
+      "value": "Import failed"
+    },
+    {
+      "name": "geofile_imported",
+      "value": "%1$s imported"
+    },
+    {
+      "name": "geofile_unknown_db_format",
+      "value": "Unknown Database format"
+    },
+    {
+      "name": "geofile_unknown_db_format_message",
+      "value": "Only %1$s are supported"
+    },
+    {
+      "name": "geoip_fallback",
+      "value": "GeoIP Fallback"
+    },
+    {
+      "name": "geox_files",
+      "value": "Geo Files"
+    },
+    {
+      "name": "geox_geoip",
+      "value": "GeoIp Url"
+    },
+    {
+      "name": "geox_geosite",
+      "value": "Geosite Url"
+    },
+    {
+      "name": "geox_mmdb",
+      "value": "MMDB Url"
+    },
+    {
+      "name": "geox_url_setting",
+      "value": "GeoX Url Setting"
+    },
+    {
+      "name": "github_issues",
+      "value": "Github Issues"
+    },
+    {
+      "name": "github_releases",
+      "value": "Github Releases"
+    },
+    {
+      "name": "global_mode",
+      "value": "全局模式"
+    },
+    {
+      "name": "google_play",
+      "value": "Google Play"
+    },
+    {
+      "name": "help",
+      "value": "幫助"
+    },
+    {
+      "name": "history",
+      "value": "歷史"
+    },
+    {
+      "name": "hosts",
+      "value": "Hosts"
+    },
+    {
+      "name": "http",
+      "value": "HTTP"
+    },
+    {
+      "name": "http_port",
+      "value": "HTTP 端口"
+    },
+    {
+      "name": "import_",
+      "value": "導入"
+    },
+    {
+      "name": "import_country_file",
+      "value": "Import Country Database"
+    },
+    {
+      "name": "import_from_clipboard",
+      "value": "從剪切板導入"
+    },
+    {
+      "name": "import_from_file",
+      "value": "從文件導入"
+    },
+    {
+      "name": "import_from_qr",
+      "value": "從二維碼導入"
+    },
+    {
+      "name": "import_from_qr_exception",
+      "value": "發生系統未知異常，操作失敗。"
+    },
+    {
+      "name": "import_from_qr_no_permission",
+      "value": "相機權限受限，請前往設定開啟。"
+    },
+    {
+      "name": "import_from_url",
+      "value": "從 URL 導入"
+    },
+    {
+      "name": "import_geoip_file",
+      "value": "Import GeoIP Database"
+    },
+    {
+      "name": "import_geosite_file",
+      "value": "Import GeoSite Database"
+    },
+    {
+      "name": "info",
+      "value": "消息"
+    },
+    {
+      "name": "initializing",
+      "value": "正在初始化"
+    },
+    {
+      "name": "install_time",
+      "value": "安裝時間"
+    },
+    {
+      "name": "interface_",
+      "value": "界面"
+    },
+    {
+      "name": "invalid_file_name",
+      "value": "非法的文件名稱"
+    },
+    {
+      "name": "invalid_log_file",
+      "value": "無效的日誌文件"
+    },
+    {
+      "name": "invalid_url",
+      "value": "無效的 URL"
+    },
+    {
+      "name": "ipcidr_fallback",
+      "value": "IPCIDR Fallback"
+    },
+    {
+      "name": "ipv6",
+      "value": "IPv6"
+    },
+    {
+      "name": "key",
+      "value": "鍵"
+    },
+    {
+      "name": "keyword",
+      "value": "關鍵詞"
+    },
+    {
+      "name": "layout",
+      "value": "佈局"
+    },
+    {
+      "name": "listen",
+      "value": "監聽"
+    },
+    {
+      "name": "loading",
+      "value": "載入中"
+    },
+    {
+      "name": "log_level",
+      "value": "日誌級別"
+    },
+    {
+      "name": "logcat",
+      "value": "Logcat"
+    },
+    {
+      "name": "logs",
+      "value": "日誌"
+    },
+    {
+      "name": "mapping",
+      "value": "Real-IP 至 域名映射"
+    },
+    {
+      "name": "meta_features",
+      "value": "Meta Features"
+    },
+    {
+      "name": "mixed_port",
+      "value": "複合端口"
+    },
+    {
+      "name": "mode",
+      "value": "模式"
+    },
+    {
+      "name": "mode_switch_tips",
+      "value": "僅在本次會話中有效"
+    },
+    {
+      "name": "more",
+      "value": "更多"
+    },
+    {
+      "name": "multiple",
+      "value": "多列"
+    },
+    {
+      "name": "name",
+      "value": "名稱"
+    },
+    {
+      "name": "name_server",
+      "value": "Name Server"
+    },
+    {
+      "name": "name_server_policy",
+      "value": "Name Server 策略"
+    },
+    {
+      "name": "network",
+      "value": "網絡"
+    },
+    {
+      "name": "new_profile",
+      "value": "新配置"
+    },
+    {
+      "name": "no_profile_selected",
+      "value": "沒有選擇配置文件"
+    },
+    {
+      "name": "not_selectable",
+      "value": "不可選擇"
+    },
+    {
+      "name": "not_selected",
+      "value": "未選擇"
+    },
+    {
+      "name": "off",
+      "value": "強制關閉"
+    },
+    {
+      "name": "ok",
+      "value": "確認"
+    },
+    {
+      "name": "options_unavailable",
+      "value": "選項在 Clash 運行時不可用"
+    },
+    {
+      "name": "override",
+      "value": "覆寫"
+    },
+    {
+      "name": "override_destination",
+      "value": "Override Destination"
+    },
+    {
+      "name": "package_name",
+      "value": "應用包名稱"
+    },
+    {
+      "name": "parse_pure_ip",
+      "value": "Parse Pure IP"
+    },
+    {
+      "name": "port_whitelist",
+      "value": "Port Whitelist"
+    },
+    {
+      "name": "prefer_h3",
+      "value": "Prefer h3"
+    },
+    {
+      "name": "press_to_import",
+      "value": "Press to import..."
+    },
+    {
+      "name": "profile",
+      "value": "配置"
+    },
+    {
+      "name": "profile_name",
+      "value": "配置名稱"
+    },
+    {
+      "name": "profile_url",
+      "value": "配置 URL"
+    },
+    {
+      "name": "profiles",
+      "value": "配置"
+    },
+    {
+      "name": "properties",
+      "value": "參數"
+    },
+    {
+      "name": "providers",
+      "value": "外部資源"
+    },
+    {
+      "name": "proxy",
+      "value": "代理"
+    },
+    {
+      "name": "proxy_empty_tips",
+      "value": "沒有可以顯示的組"
+    },
+    {
+      "name": "qr_code_generation_failed",
+      "value": "無法為此連結產生二維碼。"
+    },
+    {
+      "name": "recently",
+      "value": "近期"
+    },
+    {
+      "name": "redirect_port",
+      "value": "Redirect 端口"
+    },
+    {
+      "name": "reinstall",
+      "value": "重新安裝"
+    },
+    {
+      "name": "rename",
+      "value": "重命名"
+    },
+    {
+      "name": "reset",
+      "value": "重置"
+    },
+    {
+      "name": "reset_override_settings",
+      "value": "重置覆寫設置"
+    },
+    {
+      "name": "reset_override_settings_message",
+      "value": "所有的覆寫設置將會被擦除"
+    },
+    {
+      "name": "reverse",
+      "value": "反轉"
+    },
+    {
+      "name": "route_system_traffic",
+      "value": "自動路由系統流量"
+    },
+    {
+      "name": "routing_via_vpn_service",
+      "value": "通過 VpnService 自動路由所有系統流量"
+    },
+    {
+      "name": "rule",
+      "value": "規則"
+    },
+    {
+      "name": "rule_mode",
+      "value": "規則模式"
+    },
+    {
+      "name": "running",
+      "value": "運行中"
+    },
+    {
+      "name": "save",
+      "value": "保存"
+    },
+    {
+      "name": "search",
+      "value": "查找"
+    },
+    {
+      "name": "select_all",
+      "value": "全選"
+    },
+    {
+      "name": "select_invert",
+      "value": "反選"
+    },
+    {
+      "name": "select_none",
+      "value": "清除"
+    },
+    {
+      "name": "service",
+      "value": "服務"
+    },
+    {
+      "name": "settings",
+      "value": "設置"
+    },
+    {
+      "name": "share_qr_code",
+      "value": "二維碼分享"
+    },
+    {
+      "name": "should_not_be_blank",
+      "value": "不能為空"
+    },
+    {
+      "name": "show_traffic",
+      "value": "顯示流量"
+    },
+    {
+      "name": "show_traffic_summary",
+      "value": "在通知中自動刷新流量"
+    },
+    {
+      "name": "silent",
+      "value": "停用"
+    },
+    {
+      "name": "single",
+      "value": "單列"
+    },
+    {
+      "name": "skip_domain",
+      "value": "Skip Domain"
+    },
+    {
+      "name": "sniffer",
+      "value": "Sniffer"
+    },
+    {
+      "name": "sniffer_config",
+      "value": "Load Sniffer From Config"
+    },
+    {
+      "name": "sniffer_override",
+      "value": "Override Sniffer Config"
+    },
+    {
+      "name": "sniffer_setting",
+      "value": "Sniffer Setting"
+    },
+    {
+      "name": "sniffing",
+      "value": "Sniffer Mode"
+    },
+    {
+      "name": "socks_port",
+      "value": "Socks 端口"
+    },
+    {
+      "name": "sort",
+      "value": "排序"
+    },
+    {
+      "name": "sources",
+      "value": "源代碼"
+    },
+    {
+      "name": "stopped",
+      "value": "已停止"
+    },
+    {
+      "name": "strategy",
+      "value": "策略"
+    },
+    {
+      "name": "strict",
+      "value": "跟隨配置設定"
+    },
+    {
+      "name": "system_apps",
+      "value": "系統應用"
+    },
+    {
+      "name": "system_proxy",
+      "value": "系統代理"
+    },
+    {
+      "name": "system_proxy_summary",
+      "value": "為 VpnService 附加 HTTP 代理"
+    },
+    {
+      "name": "tap_to_start",
+      "value": "點此啓動"
+    },
+    {
+      "name": "tcp_concurrent",
+      "value": "TCP Concurrent"
+    },
+    {
+      "name": "tips_help",
+      "value": "Clash Meta for Android 是一個<strong>免費軟件</strong>並且我們<strong>不</strong>為其提供任何服務, <strong>請務必不要反饋非應用自身引起的問題</strong>"
+    },
+    {
+      "name": "tips_properties",
+      "value": "僅接受 <strong>Clash 配置文件</strong>(包含<strong>代理</strong>/<strong>規則</strong>)"
+    },
+    {
+      "name": "toast_profile_updated_complete",
+      "value": "Update profile %s completed"
+    },
+    {
+      "name": "toast_profile_updated_failed",
+      "value": "Update profile %1$s failed: %2$s"
+    },
+    {
+      "name": "tproxy_port",
+      "value": "TProxy 端口"
+    },
+    {
+      "name": "unable_to_start_vpn",
+      "value": "無法啓動 VPN 組件"
+    },
+    {
+      "name": "unavailable",
+      "value": "不可用"
+    },
+    {
+      "name": "unified_delay",
+      "value": "Unified Delay"
+    },
+    {
+      "name": "update",
+      "value": "更新"
+    },
+    {
+      "name": "update_all",
+      "value": "更新全部"
+    },
+    {
+      "name": "update_time",
+      "value": "更新時間"
+    },
+    {
+      "name": "url",
+      "value": "URL"
+    },
+    {
+      "name": "use_built_in",
+      "value": "使用內置"
+    },
+    {
+      "name": "use_hosts",
+      "value": "使用 Hosts"
+    },
+    {
+      "name": "value",
+      "value": "值"
+    },
+    {
+      "name": "verifying",
+      "value": "正在校驗"
+    },
+    {
+      "name": "version_updated",
+      "value": "應用已更新"
+    },
+    {
+      "name": "version_updated_tips",
+      "value": "設置已被清除，舊的配置文件需要再次保存。"
+    },
+    {
+      "name": "vpn_service_options",
+      "value": "VpnService 選項"
+    },
+    {
+      "name": "warning",
+      "value": "警告"
+    }
+  ]
+}
