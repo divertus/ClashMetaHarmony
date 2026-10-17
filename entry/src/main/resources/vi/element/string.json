@@ -438,7 +438,7 @@
     },
     {
       "name": "format_provider_type",
-      "value": "%1$s(%2$s)"
+      "value": "%s(%s)"
     },
     {
       "name": "format_traffic_forwarded",
@@ -454,11 +454,11 @@
     },
     {
       "name": "format_update_failure",
-      "value": "Cập nhật %1$s: %2$s"
+      "value": "Cập nhật %s: %s"
     },
     {
       "name": "format_update_provider_failure",
-      "value": "Cập nhật %1$s: %2$s"
+      "value": "Cập nhật %s: %s"
     },
     {
       "name": "format_years_ago",
@@ -922,7 +922,7 @@
     },
     {
       "name": "toast_profile_updated_failed",
-      "value": "Cập nhật không thành công %1$s %2$s"
+      "value": "Cập nhật không thành công %s %s"
     },
     {
       "name": "tproxy_port",

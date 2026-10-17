@@ -1,5 +1,22 @@
 {
   "src": [
-    "pages/Index"
+    "pages/Index",
+    "pages/ProxyPage",
+    "pages/ProvidersPage",
+    "pages/SettingsPage",
+    "pages/AppSettingsPage",
+    "pages/NetworkSettingsPage",
+    "pages/OverrideSettingsPage",
+    "pages/MetaFeatureSettingsPage",
+    "pages/AccessControlPage",
+    "pages/ProfilesPage",
+    "pages/NewProfilePage",
+    "pages/PropertiesPage",
+    "pages/FilesPage",
+    "pages/HelpPage",
+    "pages/LogsPage",
+    "pages/LogcatPage",
+    "pages/ApkBrokenPage",
+    "pages/AppCrashedPage"
   ]
 }

@@ -48,3 +48,27 @@ export function trafficTotal(uploadPacked: number, downloadPacked: number): stri
   const download: number = scaleTraffic(downloadPacked);
   return trafficString(upload + download);
 }
+
+/**
+ * Format a plain byte total.
+ *
+ * IMPORTANT -- why this multiplies by 100.
+ *
+ * `trafficString` expects a "scaled" figure that is BYTES x 100, not bytes.
+ * That is not obvious from its name, but it follows from the Android pair:
+ *
+ *   scaleTraffic(data, type) = data * 1024^type
+ *   trafficString(scaled)    = (scaled / 1024^type) / 100
+ *
+ * The core packs `data` in hundredths of the unit, so `scaleTraffic` really
+ * returns bytes x 100, and `trafficString` divides that 100 back out. The two
+ * only agree when the input to `trafficString` is bytes x 100.
+ *
+ * The external-controller API reports plain bytes, so the x100 has to be
+ * applied here. Without it the figure renders 100x too small -- which is
+ * exactly what the first end-to-end run against a mock controller showed
+ * (140 KiB of forwarded traffic displayed as "1.40 KiB").
+ */
+export function trafficFromBytes(uploadBytes: number, downloadBytes: number): string {
+  return trafficString((uploadBytes + downloadBytes) * 100);
+}

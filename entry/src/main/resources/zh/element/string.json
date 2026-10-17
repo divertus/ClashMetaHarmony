@@ -474,7 +474,7 @@
     },
     {
       "name": "format_provider_type",
-      "value": "%1$s(%2$s)"
+      "value": "%s(%s)"
     },
     {
       "name": "format_traffic_forwarded",
@@ -486,7 +486,7 @@
     },
     {
       "name": "format_update_provider_failure",
-      "value": "更新 %1$s: %2$s"
+      "value": "更新 %s: %s"
     },
     {
       "name": "format_years_ago",
@@ -506,7 +506,7 @@
     },
     {
       "name": "geofile_imported",
-      "value": "%1$s 已导入"
+      "value": "%s 已导入"
     },
     {
       "name": "geofile_unknown_db_format",
@@ -514,7 +514,7 @@
     },
     {
       "name": "geofile_unknown_db_format_message",
-      "value": "只支持 %1$s 格式的 Geo 数据库"
+      "value": "只支持 %s 格式的 Geo 数据库"
     },
     {
       "name": "geoip_fallback",
@@ -953,6 +953,14 @@
       "value": "切换 Clash"
     },
     {
+      "name": "card_display_name",
+      "value": "Clash 控制"
+    },
+    {
+      "name": "card_description",
+      "value": "启动、停止或切换 Clash 隧道"
+    },
+    {
       "name": "should_not_be_blank",
       "value": "不能为空"
     },
@@ -1054,7 +1062,7 @@
     },
     {
       "name": "toast_profile_updated_failed",
-      "value": "更新配置 %1$s 失败：%2$s"
+      "value": "更新配置 %s 失败：%s"
     },
     {
       "name": "tproxy_port",
@@ -1123,6 +1131,30 @@
     {
       "name": "whitelist",
       "value": "白名单"
+    },
+    {
+      "name": "desktop_shortcut",
+      "value": "桌面快捷方式"
+    },
+    {
+      "name": "desktop_shortcut_summary",
+      "value": "把“切换 Clash”快捷方式添加到桌面"
+    },
+    {
+      "name": "shortcut_pin_success",
+      "value": "快捷方式已添加"
+    },
+    {
+      "name": "shortcut_pin_failed",
+      "value": "无法添加快捷方式"
+    },
+    {
+      "name": "allow_bypass_harmony_summary",
+      "value": "启用后，访问控制页的“不允许已选择的应用”列表作为用户管理的应用绕过列表；HarmonyOS 没有应用自行退出的 API"
+    },
+    {
+      "name": "system_proxy_harmony_summary",
+      "value": "TUN 模式已接管所有应用流量；全局 PAC 代理需要 system_basic 的 SET_PAC_URL 权限"
     }
   ]
 }

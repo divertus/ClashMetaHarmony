@@ -1,0 +1,52 @@
+ClashMetaHarmony
+================
+
+This project is a derivative work. The parts that are not original are listed
+below with their license, so the obligations attached to them are visible.
+
+ClashMetaForAndroid (GPL-3.0)
+-----------------------------
+https://github.com/MetaCubeX/ClashMetaForAndroid  (v2.11.35)
+
+The ArkTS screens, view models, models and string resources in this repository
+are ports of CMFA's activities, layouts and resources. Concretely:
+
+  - entry/src/main/resources/**            converted from CMFA's res/ tree
+                                           (values + XML drawables -> SVG)
+  - entry/src/main/ets/pages/**            ports of CMFA's activities
+  - entry/src/main/ets/viewmodel/**        ports of CMFA's *Design.kt
+  - entry/src/main/ets/model/**            ports of CMFA's data classes
+
+Layout constants, colours, string ids and behaviour were kept aligned with the
+Android originals on purpose; the file headers say which Android file each port
+corresponds to.
+
+mihomo (GPL-3.0)
+----------------
+https://github.com/MetaCubeX/mihomo
+
+The `libclash.so` this project links against is a build of mihomo, produced from
+unmodified upstream source plus the additions in `core/`:
+
+  - core/ohos-main.go                       the OHOS cgo export surface
+  - core/gvisor-ohos-fstat-fallback.patch   a fail-closed fallback in
+                                            metacubex/gvisor's IsSocketFD
+  - core/shims/**                           an android/log.h shim
+
+The binary itself is not committed to this repository; core/build-core.sh
+reproduces it from the upstream source. Corresponding source for the binary is
+therefore the upstream release plus the files above.
+
+gvisor (Apache-2.0)
+-------------------
+https://github.com/metacubex/gvisor (a fork of google/gvisor)
+
+`core/gvisor-ohos-fstat-fallback.patch` modifies this package. It is applied at
+build time to a local copy; the upstream license is unchanged.
+
+HomeTrans (MIT)
+---------------
+https://gitcode.com/SMAT/HomeTrans
+
+Used as the porting workflow. Its own notes and the defects this project found
+in it are in docs/.

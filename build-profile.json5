@@ -1,6 +1,20 @@
 {
   "app": {
-    "signingConfigs": [],
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "/Users/hikaritus/.ohos/config/default_ClashMetaHarmony_CSo9g3Gcbx5_SuHMh44f-fn1944c_pRhuyNJWz-CSoo=.cer",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001B825017F9B3FB73AEC7ADE88FE3E68DD28F4DB63A4B56F20D7857C0611240EC2835B8336C34B63C",
+          "profile": "/Users/hikaritus/.ohos/config/default_ClashMetaHarmony_CSo9g3Gcbx5_SuHMh44f-fn1944c_pRhuyNJWz-CSoo=.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "/Users/hikaritus/.ohos/config/default_ClashMetaHarmony_CSo9g3Gcbx5_SuHMh44f-fn1944c_pRhuyNJWz-CSoo=.p12",
+          "storePassword": "0000001B7B40A702073912DEF2358AE7A8B5870856828232B12EB68EE784377213808A6A8A143A292809BF"
+        }
+      }
+    ],
     "products": [
       {
         "name": "default",

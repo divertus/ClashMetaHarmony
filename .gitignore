@@ -6,3 +6,17 @@
 /build/
 /.hometrans/
 /.cxx/
+/.cache/
+
+# Scratch: build logs, verification screenshots, and a working copy of the
+# gvisor source used for the patch. Reproducible, not source.
+/work/
+
+# The mihomo core is a 62 MB Go shared library and 94% of the built HAP, so it
+# is built rather than committed. See core/README.md and core/build-core.sh.
+# liblog.so is kept: it is a 12 KB stub and the link step needs it.
+/entry/src/main/cpp/prebuilt/arm64-v8a/libclash.so
+/entry/src/main/cpp/prebuilt/arm64-v8a/libclash.h
+
+# A dev-only probe library that is not referenced by CMakeLists.txt.
+/entry/src/main/cpp/prebuilt/arm64-v8a/libgoprobe.so

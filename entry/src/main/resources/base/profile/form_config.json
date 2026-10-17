@@ -1,0 +1,25 @@
+{
+  "forms": [
+    {
+      "name": "clash_control_card",
+      "displayName": "$string:card_display_name",
+      "description": "$string:card_description",
+      "src": "./ets/widget/pages/ClashCard.ets",
+      "uiSyntax": "arkts",
+      "window": {
+        "designWidth": 720,
+        "autoDesignWidth": true
+      },
+      "colorMode": "auto",
+      "isDynamic": true,
+      "isDefault": true,
+      "updateEnabled": true,
+      "scheduledUpdateTime": "10:30",
+      "updateDuration": 1,
+      "defaultDimension": "2*4",
+      "supportDimensions": [
+        "2*4"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+diff --git a/pkg/tcpip/link/fdbased/endpoint.go b/pkg/tcpip/link/fdbased/endpoint.go
+--- a/pkg/tcpip/link/fdbased/endpoint.go
++++ b/pkg/tcpip/link/fdbased/endpoint.go
+@@ -41,6 +41,7 @@
+ package fdbased
+ 
+ import (
++	"errors"
+ 	"fmt"
+ 	"runtime"
+ 	
+@@ -473,10 +474,21 @@ func JoinPacketFanoutGroup(fd int, fID int32) error {
+ // IsSocketFD checks if the FD is a socket.
+ func IsSocketFD(fd int) (bool, error) {
+ 	var stat unix.Stat_t
+-	if err := unix.Fstat(fd, &stat); err != nil {
++	if err := unix.Fstat(fd, &stat); err == nil {
++		return (stat.Mode & unix.S_IFSOCK) == unix.S_IFSOCK, nil
++	} else if !errors.Is(err, unix.EPERM) && !errors.Is(err, unix.EACCES) {
+ 		return false, fmt.Errorf("unix.Fstat(%v,...) failed: %v", fd, err)
+ 	}
+-	return (stat.Mode & unix.S_IFSOCK) == unix.S_IFSOCK, nil
++
++	_, err := unix.Getsockname(fd)
++	switch {
++	case err == nil:
++		return true, nil
++	case errors.Is(err, unix.ENOTSOCK):
++		return false, nil
++	default:
++		return false, fmt.Errorf("unix.Fstat(%v,...) failed: EPERM/EACCES; unix.Getsockname fallback failed: %v", fd, err)
++	}
+ }

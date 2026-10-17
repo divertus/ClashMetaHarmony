@@ -5,6 +5,22 @@
       "value": "ClashMeta"
     },
     {
+      "name": "not_ported",
+      "value": "Not ported yet"
+    },
+    {
+      "name": "controller_cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "controller_save",
+      "value": "Save"
+    },
+    {
+      "name": "override_apply_failed",
+      "value": "Failed to apply the override to the controller"
+    },
+    {
       "name": "module_desc",
       "value": "module description"
     },
@@ -41,6 +57,38 @@
       "value": "Configure access permission for apps"
     },
     {
+      "name": "access_control_add_package",
+      "value": "Add Package"
+    },
+    {
+      "name": "access_control_clipboard_read_denied",
+      "value": "HarmonyOS denied the clipboard read. Paste the package names below instead."
+    },
+    {
+      "name": "access_control_enumeration_unavailable",
+      "value": "HarmonyOS refuses every installed-app query to a third-party app: the list, the by-uid lookup and the per-package lookup all require a system_basic permission. Add package names with + or import them from the clipboard."
+    },
+    {
+      "name": "access_control_scan_apps",
+      "value": "Scan installed apps"
+    },
+    {
+      "name": "access_control_scanning",
+      "value": "Scanning installed apps"
+    },
+    {
+      "name": "access_control_scan_denied",
+      "value": "The platform denied the scan; it needs ohos.permission.GET_BUNDLE_INFO_PRIVILEGED, which is system_basic."
+    },
+    {
+      "name": "access_control_nothing_entered",
+      "value": "No package name entered"
+    },
+    {
+      "name": "access_control_package_name_hint",
+      "value": "com.example.app, one per line"
+    },
+    {
       "name": "active_unsaved_tips",
       "value": "Profile needs to be saved before activation"
     },
@@ -63,6 +111,10 @@
     {
       "name": "age_key_helper",
       "value": "Age Key"
+    },
+    {
+      "name": "age_key_not_supported",
+      "value": "Age key generation needs the Clash core, which this port does not have"
     },
     {
       "name": "age_key_to_public",
@@ -534,7 +586,7 @@
     },
     {
       "name": "format_provider_type",
-      "value": "%1$s(%2$s)"
+      "value": "%s(%s)"
     },
     {
       "name": "format_traffic_forwarded",
@@ -546,7 +598,7 @@
     },
     {
       "name": "format_update_provider_failure",
-      "value": "Update %1$s: %2$s"
+      "value": "Update %s: %s"
     },
     {
       "name": "format_years_ago",
@@ -566,7 +618,7 @@
     },
     {
       "name": "geofile_imported",
-      "value": "%1$s imported"
+      "value": "%s imported"
     },
     {
       "name": "geofile_unknown_db_format",
@@ -574,7 +626,7 @@
     },
     {
       "name": "geofile_unknown_db_format_message",
-      "value": "Only %1$s are supported"
+      "value": "Only %s are supported"
     },
     {
       "name": "geoip_fallback",
@@ -791,6 +843,10 @@
     {
       "name": "logs",
       "value": "Logs"
+    },
+    {
+      "name": "logs_empty_tip",
+      "value": "No local log files. This port has no log writer, and the live log stream is not ported."
     },
     {
       "name": "mapping",
@@ -1053,6 +1109,14 @@
       "value": "Toggle Clash"
     },
     {
+      "name": "card_display_name",
+      "value": "Clash control"
+    },
+    {
+      "name": "card_description",
+      "value": "Start, stop, or toggle the Clash tunnel"
+    },
+    {
       "name": "should_not_be_blank",
       "value": "Should not be blank"
     },
@@ -1174,7 +1238,7 @@
     },
     {
       "name": "toast_profile_updated_failed",
-      "value": "Update profile %1$s failed: %2$s"
+      "value": "Update profile %s failed: %s"
     },
     {
       "name": "tproxy_port",
@@ -1253,6 +1317,10 @@
       "value": "The settings have been reseted and the old profiles needs to be saved again."
     },
     {
+      "name": "vpn_option_no_effect",
+      "value": "saved, but HarmonyOS has no equivalent API, so it is not applied"
+    },
+    {
       "name": "vpn_service_options",
       "value": "VpnService Options"
     },
@@ -1263,6 +1331,30 @@
     {
       "name": "whitelist",
       "value": "White List"
+    },
+    {
+      "name": "desktop_shortcut",
+      "value": "Desktop shortcut"
+    },
+    {
+      "name": "desktop_shortcut_summary",
+      "value": "Add the toggle Clash shortcut to the home screen"
+    },
+    {
+      "name": "shortcut_pin_success",
+      "value": "Shortcut added"
+    },
+    {
+      "name": "shortcut_pin_failed",
+      "value": "Unable to add shortcut"
+    },
+    {
+      "name": "allow_bypass_harmony_summary",
+      "value": "Enables the access-control DenySelected list as a user-managed per-app bypass list; HarmonyOS has no app self-opt-out API"
+    },
+    {
+      "name": "system_proxy_harmony_summary",
+      "value": "TUN mode already captures all app traffic; a global PAC proxy would require the system_basic SET_PAC_URL permission"
     }
   ]
 }

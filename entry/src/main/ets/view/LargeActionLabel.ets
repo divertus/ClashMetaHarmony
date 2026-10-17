@@ -25,7 +25,7 @@ export struct LargeActionLabel {
           right: $r('app.float.large_item_header_margin_horizontal')
         })
         .objectFit(ImageFit.Contain)
-        .fillColor($r('app.color.color_light_control_disabled'))
+        .fillColor($r('app.color.color_control_normal'))
 
       Column() {
         Text(this.text)

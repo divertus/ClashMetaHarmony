@@ -1,0 +1,49 @@
+{
+  "shortcuts": [
+    {
+      "shortcutId": "clash_toggle",
+      "label": "$string:shortcut_toggle_short",
+      "icon": "$media:ic_baseline_swap_vert",
+      "wants": [
+        {
+          "bundleName": "com.example.clashmeta",
+          "moduleName": "entry",
+          "abilityName": "EntryAbility",
+          "parameters": {
+            "clashAction": "toggle"
+          }
+        }
+      ]
+    },
+    {
+      "shortcutId": "clash_start",
+      "label": "$string:shortcut_start_short",
+      "icon": "$media:ic_baseline_flash_on",
+      "wants": [
+        {
+          "bundleName": "com.example.clashmeta",
+          "moduleName": "entry",
+          "abilityName": "EntryAbility",
+          "parameters": {
+            "clashAction": "start"
+          }
+        }
+      ]
+    },
+    {
+      "shortcutId": "clash_stop",
+      "label": "$string:shortcut_stop_short",
+      "icon": "$media:ic_baseline_stop",
+      "wants": [
+        {
+          "bundleName": "com.example.clashmeta",
+          "moduleName": "entry",
+          "abilityName": "EntryAbility",
+          "parameters": {
+            "clashAction": "stop"
+          }
+        }
+      ]
+    }
+  ]
+}

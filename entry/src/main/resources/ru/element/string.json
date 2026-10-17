@@ -474,7 +474,7 @@
     },
     {
       "name": "format_provider_type",
-      "value": "%1$s(%2$s)"
+      "value": "%s(%s)"
     },
     {
       "name": "format_traffic_forwarded",
@@ -486,7 +486,7 @@
     },
     {
       "name": "format_update_provider_failure",
-      "value": "Обновление %1$s: %2$s"
+      "value": "Обновление %s: %s"
     },
     {
       "name": "format_years_ago",
@@ -506,7 +506,7 @@
     },
     {
       "name": "geofile_imported",
-      "value": "%1$s imported"
+      "value": "%s imported"
     },
     {
       "name": "geofile_unknown_db_format",
@@ -514,7 +514,7 @@
     },
     {
       "name": "geofile_unknown_db_format_message",
-      "value": "Only %1$s are supported"
+      "value": "Only %s are supported"
     },
     {
       "name": "geoip_fallback",
@@ -1034,7 +1034,7 @@
     },
     {
       "name": "toast_profile_updated_failed",
-      "value": "Update profile %1$s failed: %2$s"
+      "value": "Update profile %s failed: %s"
     },
     {
       "name": "tproxy_port",

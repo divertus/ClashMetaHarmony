@@ -10,6 +10,27 @@
     "deliveryWithInstall": true,
     "installationFree": false,
     "pages": "$profile:main_pages",
+    "requestPermissions": [
+      {
+        // Required by ExternalControllerBackend: it talks to a mihomo
+        // external-controller over HTTP. Without this every request fails and
+        // the status card reports "controller unreachable".
+        "name": "ohos.permission.INTERNET"
+      },
+      {
+        // `GET_BUNDLE_INFO` is a normal system-grant permission. It lets the
+        // access-control page resolve a package name the user typed/imported
+        // into a label/icon. Enumerating other packages is not public API.
+        "name": "ohos.permission.GET_BUNDLE_INFO"
+      },
+      {
+        // HarmonyOS stops a third-party VPN when the process that called
+        // `startVpnExtensionAbility()` exits. The main UIAbility requests a
+        // data-transfer continuous task while the tunnel is running so that
+        // the caller process stays alive.
+        "name": "ohos.permission.KEEP_BACKGROUND_RUNNING"
+      }
+    ],
     "abilities": [
       {
         "name": "EntryAbility",
@@ -20,6 +41,19 @@
         "startWindowIcon": "$media:startIcon",
         "startWindowBackground": "$color:start_window_background",
         "exported": true,
+        "backgroundModes": [
+          "dataTransfer"
+        ],
+        "metadata": [
+          {
+            // Static app shortcuts, i.e. the long-press menu on the launcher
+            // icon. HarmonyOS's equivalent of Android's `ShortcutManagerCompat`
+            // set that `MainActivity` registers. See
+            // `resources/base/profile/shortcuts_config.json`.
+            "name": "ohos.ability.shortcuts",
+            "resource": "$profile:shortcuts_config"
+          }
+        ],
         "skills": [
           {
             "entities": [
@@ -33,6 +67,32 @@
       }
     ],
     "extensionAbilities": [
+      {
+        // HarmonyOS's `VpnService`: the platform creates the virtual NIC and
+        // installs the routes, the app implements the tunnel. See
+        // `vpnextension/ClashVpnExtension.ets`.
+        "name": "ClashVpnExtension",
+        "srcEntry": "./ets/vpnextension/ClashVpnExtension.ets",
+        "type": "vpn",
+        "exported": false
+      },
+      {
+        // Home-screen service card. Android's TileService is not exposed to
+        // third-party apps, so the supported quick-control surface is a form
+        // extension. The card's message events are handled in
+        // `entryformability/EntryFormAbility.ets`.
+        "name": "EntryFormAbility",
+        "srcEntry": "./ets/entryformability/EntryFormAbility.ets",
+        "label": "$string:card_display_name",
+        "description": "$string:card_description",
+        "type": "form",
+        "metadata": [
+          {
+            "name": "ohos.extension.form",
+            "resource": "$profile:form_config"
+          }
+        ]
+      },
       {
         "name": "EntryBackupAbility",
         "srcEntry": "./ets/entrybackupability/EntryBackupAbility.ets",

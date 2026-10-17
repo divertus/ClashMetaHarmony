@@ -3,6 +3,42 @@
     {
       "name": "start_window_background",
       "value": "#000000"
+    },
+    {
+      "name": "color_background",
+      "value": "#ff121212"
+    },
+    {
+      "name": "color_surface",
+      "value": "#ff202020"
+    },
+    {
+      "name": "color_control_normal",
+      "value": "#ffffffff"
+    },
+    {
+      "name": "color_control_disabled",
+      "value": "#ff808080"
+    },
+    {
+      "name": "color_control_highlight",
+      "value": "#33ffffff"
+    },
+    {
+      "name": "color_primary",
+      "value": "#ff1976d2"
+    },
+    {
+      "name": "color_on_primary",
+      "value": "#ffffffff"
+    },
+    {
+      "name": "color_clash_started",
+      "value": "#ff1976d2"
+    },
+    {
+      "name": "color_clash_stopped",
+      "value": "#ff202020"
     }
   ]
 }

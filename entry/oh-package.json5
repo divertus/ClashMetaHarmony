@@ -5,6 +5,9 @@
   "main": "",
   "author": "",
   "license": "",
-  "dependencies": {}
+  "dependencies": {
+    // The NAPI module built from `src/main/cpp` (see its CMakeLists.txt).
+    "libclashcore.so": "file:./src/main/cpp/types/libclashcore"
+  }
 }
 
