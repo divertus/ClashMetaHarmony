@@ -126,6 +126,27 @@ done instead.
 
 ---
 
+## What else is in here
+
+**`skill/hmos-vpn-app-port/`** — a portable skill distilled from this port, for
+the next Android app of the same class (Clash, sing-box, v2ray, WireGuard, any
+native core behind a TUN). It covers the descriptor lifecycle, the fd-leak trap,
+the OHOS arm64 core build, the measured platform limits, and a device check
+script you can run:
+
+```bash
+./skill/hmos-vpn-app-port/scripts/vpn-device-check.sh com.example.clashmeta vpn-tun 9090 3
+```
+
+**`docs/hometrans-feedback/`** — eight issue write-ups against HomeTrans, the
+workflow used for this port. Each one has a file path plus a line number, or a
+quoted command output. Two are bugs that break a fresh install; one records a
+wrong platform conclusion the workflow allowed and the process change that
+prevents it. `docs/hometrans-feedback/tool-combination.md` covers which tool is
+authoritative for which question.
+
+---
+
 ## License
 
 GPL-3.0. This is a derivative work of ClashMetaForAndroid (GPL-3.0) and
